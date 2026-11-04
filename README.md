@@ -1,12 +1,12 @@
-# AMAZON SHOPPING BEHAVIOUR ANALYSIS PROJECT
+# 📊 AMAZON SHOPPING BEHAVIOUR ANALYSIS PROJECT
 
-## 1. Project Overview
+## 📌 1. Project Overview
 
 The Shopping Behaviour Analysis project focuses on understanding customer shopping patterns and identifying reasons for cart abandonment.
 
 The project uses a simulated Amazon shopping behaviour dataset and analyses it using Microsoft Excel and PostgreSQL. The main objective is to understand customer purchasing behaviour, calculate important business KPIs, identify potential revenue at risk and suggest improvements to increase purchase completion.
 
-## 2. Project Objectives
+## 🎯 2. Project Objectives
 
 * Analyse customer shopping behaviour on Amazon.
 * Identify cart abandonment patterns.
@@ -17,7 +17,7 @@ The project uses a simulated Amazon shopping behaviour dataset and analyses it u
 * Create an interactive Excel dashboard.
 * Provide recommendations to improve the shopping experience.
 
-## 3. Dataset Description
+## 📂 3. Dataset Description
 
 The project uses a Amazon shopping behaviour dataset containing 1,000 original records.
 
@@ -43,7 +43,7 @@ After 3 columns were added
 
 After removing 15 duplicate records, 985 records remained for further analysis.
 
-## 4. Project folder structure
+## 📊 4. Project folder structure
 ```
 Amazon_Data_Analysis/
 │
@@ -67,7 +67,7 @@ Amazon_Data_Analysis/
 └──  README.md
 ```
 
-## 5. Tools and Technologies Used
+## 🛠 5. Tools and Technologies Used
 
 ### Microsoft Excel
 
@@ -92,11 +92,11 @@ Used for:
 * Comparing customer groups.
 * Verifying Excel results.
 
-## 6. Data Cleaning and Preparation
+## 📁 6. Data Cleaning and Preparation
 
 Before analysis, the dataset was checked and cleaned.
 
-![Data Cleaning](05_Screenshots\cleaning_log.png)
+![Data Cleaning](05_Screenshots/cleaning_log.png)
 
 The following activities were performed:
 
@@ -129,9 +129,9 @@ The following KPIs were calculated during the analysis:
 
 These KPIs helped understand customer behaviour and identify areas that may need improvement.
 
-![KPI Results](05_Screenshots\KPI_Calculations.png)
+![KPI Results](05_Screenshots/KPI_Calculations.png)
 
-## 8. Customer Segmentation
+## 👥 8. Customer Segmentation
 
 Customers were divided into five segments based on their shopping activity:
 
@@ -144,9 +144,9 @@ Customers were divided into five segments based on their shopping activity:
 
 This segmentation helped understand different customer groups and their purchasing patterns.
 
-![Customer Segmentation](05_Screenshots\customer_segmentation.png)
+![Customer Segmentation](05_Screenshots/customer_segmentation.png)
 
-## 9. SQL Analysis
+## 🗄 9. SQL Analysis
 
 PostgreSQL was used to re-analyse the cleaned Amazon shopping behaviour dataset and extract meaningful business insights.
 
@@ -161,10 +161,10 @@ The SQL analysis included:
 * Checking and validating KPI results against Excel calculations.
 
 
-![SQL Analysis](05_Screenshots\SQL_KPI_query.png)
+![SQL Analysis](05_Screenshots/SQL_KPI_query.png)
 
 
-## 10. Dashboard Description
+## 📈 10. Dashboard Description
 
 An interactive Excel dashboard was created to present the analysis results.
 The dashboard includes:
@@ -179,9 +179,9 @@ The dashboard includes:
 * Prime vs Non-Prime Shopping Behaviour.
 
 Interactive slicers were added for Prime Member Status, Device Type and Traffic Source.
-![Amazon shopping Behaviour Dashboard](05_Screenshots\dashboard.png)
+![Amazon shopping Behaviour Dashboard](05_Screenshots/dashboard.png)
 
-## 11. Key Findings
+## 💡 11. Key Findings
 
 The analysis revealed the following findings:
 
@@ -193,7 +193,7 @@ The analysis revealed the following findings:
 
 These findings helped identify opportunities to improve customer purchasing behaviour.
 
-## 12. Recommendations
+## 🎯 12. Recommendations
 
 Based on the analysis, the following recommendations were suggested:
 
