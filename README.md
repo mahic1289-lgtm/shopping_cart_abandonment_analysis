@@ -111,7 +111,7 @@ The following activities were performed:
 
 The original values of unusual records were retained for investigation rather than being changed without verification.
 
-## 7. Key Performance Indicators (KPIs)
+## 💻 7. Key Performance Indicators (KPIs)
 
 The following KPIs were calculated during the analysis:
 
