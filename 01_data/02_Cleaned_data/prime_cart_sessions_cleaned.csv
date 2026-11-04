@@ -1,0 +1,986 @@
+﻿Session_ID,User_ID,Session_Date,Prime_Member_Status,Device_Type,Traffic_Source,Session_Duration_Mins,Items_in_Cart,Total_Cart_Value,Drop_off_Stage,Data_Quality_Flag,Outlier_Analysis,Customer_Segment
+S586221,U222579,10-10-2025,Prime,Mobile App,Unknown,5.9,1,40.17,Cart,Valid,Normal,Low-Value Abandoners
+S837149,U339444,31-10-2025,Non-Prime,Desktop,Paid Search,17.4,1,23.55,Success,Valid,Normal,Purchasers
+S886563,U192272,02-10-2025,Prime,Mobile App,Paid Search,4.8,0,0.00,Product Page,Valid,Normal,Browsers
+S535129,U302760,18-10-2025,Non-Prime,Mobile App,Direct,2.3,0,0.00,Home Page,Valid,Normal,Browsers
+S677101,U991879,19-10-2025,Non-Prime,Mobile App,Organic Search,15.9,2,82.12,Success,Valid,Normal,Purchasers
+S963111,U663401,25-10-2025,Non-Prime,Mobile Web,Affiliate,10.6,3,75.55,Cart,Valid,Normal,Mid-Value Abandoners
+S578343,U515168,09-10-2025,Prime,Desktop,Paid Search,9.1,1,73.71,Cart,Valid,Normal,Mid-Value Abandoners
+S579308,U972140,11-10-2025,Prime,Mobile App,Organic Search,19.0,1,8.55,Success,Valid,Normal,Purchasers
+S862553,U798774,26-10-2025,Prime,Tablet,Organic Search,8.3,3,56.88,Cart,Valid,Normal,Mid-Value Abandoners
+S883245,U319269,28-10-2025,Non-Prime,Tablet,Organic Search,2.7,0,0.00,Product Page,Valid,Normal,Browsers
+S697066,U353602,17-10-2025,Prime,Tablet,Affiliate,1.7,0,0.00,Product Page,Valid,Normal,Browsers
+S649807,U952211,10-10-2025,Non-Prime,Mobile App,Paid Search,8.6,1,46.73,Cart,Valid,Normal,Low-Value Abandoners
+S716722,U593418,17-10-2025,Prime,Mobile App,Affiliate,8.5,2,40.53,Payment,Valid,Normal,Other
+S616555,U233576,18-10-2025,Non-Prime,Mobile App,Direct,17.0,3,53.03,Success,Valid,Normal,Purchasers
+S697262,U688016,20-10-2025,Non-Prime,Desktop,Email,25.6,3,56.31,Success,Valid,Normal,Purchasers
+S635973,U178772,13-10-2025,Non-Prime,Mobile App,Direct,8.3,1,16.12,Cart,Valid,Normal,Low-Value Abandoners
+S822617,U959152,25-10-2025,Non-Prime,Mobile Web,Direct,7.2,2,186.08,Cart,Valid,Potential Outlier,High-Value Abandoners
+S748517,U428345,08-10-2025,Prime,Desktop,Paid Search,19.7,2,52.91,Success,Valid,Normal,Purchasers
+S672609,U140305,19-10-2025,Prime,Mobile App,Organic Search,17.8,2,38.88,Checkout,Valid,Normal,Other
+S964548,U459907,29-10-2025,Non-Prime,Mobile Web,Organic Search,3.6,2,60.02,Cart,Valid,Normal,Mid-Value Abandoners
+S715746,U197169,13-10-2025,Prime,Mobile Web,Email,10.4,1,,Success,Valid,Normal,Purchasers
+S983848,U396238,08-10-2025,Prime,Mobile App,Unknown,16.7,3,135.23,Success,Valid,Normal,Purchasers
+S617408,U839289,06-10-2025,Prime,Mobile App,Direct,10.5,3,42.69,Cart,Valid,Normal,Low-Value Abandoners
+S907212,U822750,29-10-2025,Non-Prime,Mobile App,Direct,6.3,1,14.51,Cart,Valid,Normal,Low-Value Abandoners
+S614837,U426650,29-10-2025,Non-Prime,Mobile App,Direct,7.1,3,65.87,Cart,Valid,Normal,Mid-Value Abandoners
+S992566,U937368,26-10-2025,Prime,Mobile App,Email,4.1,1,19.82,Cart,Valid,Normal,Low-Value Abandoners
+S626404,U682961,24-10-2025,Prime,Desktop,Direct,14.1,4,101.91,Success,Valid,Normal,Purchasers
+S598556,U559254,15-10-2025,Prime,Desktop,Direct,3.2,1,38.23,Cart,Valid,Normal,Low-Value Abandoners
+S738730,U571089,07-10-2025,Non-Prime,Mobile Web,Paid Search,3.5,0,0.00,Product Page,Valid,Normal,Browsers
+S623974,U959688,29-10-2025,Prime,Desktop,Affiliate,11.0,0,0.00,Product Page,Valid,Normal,Browsers
+S953250,U654653,08-10-2025,Non-Prime,Mobile App,Direct,2.8,0,0.00,Home Page,Valid,Normal,Browsers
+S825062,U607852,19-10-2025,Non-Prime,Desktop,Organic Search,,2,34.53,Success,Valid,Normal,Purchasers
+S657787,U302760,30-10-2025,Non-Prime,Mobile Web,Organic Search,12.8,2,91.24,Success,Valid,Normal,Purchasers
+S963515,U593418,12-10-2025,Prime,Mobile App,Organic Search,9.8,1,41.65,Success,Valid,Normal,Purchasers
+S540010,U213418,26-10-2025,Prime,Tablet,Organic Search,6.9,0,0.00,Product Page,Valid,Normal,Browsers
+S502439,U476785,23-10-2025,Prime,Mobile App,Direct,34.1,3,281.84,Success,Valid,Potential Outlier,Purchasers
+S542993,U436713,19-10-2025,Prime,Mobile App,Organic Search,11.0,3,25000.00,Success,Valid,Potential Outlier,Purchasers
+S508916,U578677,07-10-2025,Non-Prime,Desktop,Direct,4.9,0,0.00,Product Page,Valid,Normal,Browsers
+S716538,U465963,18-10-2025,Prime,Desktop,Direct,4.8,3,88.23,Checkout,Valid,Normal,Other
+S800580,U426035,01-10-2025,Non-Prime,Tablet,Direct,5.7,0,0.00,Product Page,Valid,Normal,Browsers
+S638270,U707780,25-10-2025,Prime,Mobile App,Organic Search,3.2,0,0.00,Product Page,Valid,Normal,Browsers
+S964424,U882388,31-10-2025,Non-Prime,Mobile App,Direct,17.4,4,41.44,Success,Valid,Normal,Purchasers
+S755652,U129696,25-10-2025,Non-Prime,Mobile Web,Social Media,3.6,0,0.00,Product Page,Valid,Normal,Browsers
+S868214,U312018,18-10-2025,Prime,Mobile App,Affiliate,15.3,3,106.64,Success,Valid,Normal,Purchasers
+S733416,U415726,05-10-2025,Non-Prime,Mobile App,Organic Search,9.8,3,41.32,Checkout,Valid,Normal,Other
+S671872,U396395,13-10-2025,Prime,Mobile App,Direct,10.1,1,18.49,Checkout,Valid,Normal,Other
+S523096,U701344,29-10-2025,Prime,Desktop,Organic Search,9.5,2,150.11,Success,Valid,Normal,Purchasers
+S712425,U322619,28-10-2025,Prime,Mobile Web,Organic Search,10.1,2,52.14,Checkout,Valid,Normal,Other
+S540125,U396951,27-10-2025,Non-Prime,Mobile App,Paid Search,5.1,2,63.41,Cart,Valid,Normal,Mid-Value Abandoners
+S626246,U771595,20-10-2025,Prime,Desktop,Paid Search,18.6,1,28.85,Payment,Valid,Normal,Other
+S988476,U959688,20-10-2025,Prime,Desktop,Organic Search,8.2,0,0.00,Product Page,Valid,Normal,Browsers
+S707472,U120312,06-10-2025,Non-Prime,Mobile Web,Organic Search,0.7,0,0.00,Home Page,Valid,Normal,Browsers
+S894522,U715041,15-10-2025,Non-Prime,Mobile App,Email,9.1,2,28.59,Payment,Valid,Normal,Other
+S975373,U262721,16-10-2025,Non-Prime,Mobile App,Organic Search,4.7,0,0.00,Product Page,Valid,Normal,Browsers
+S790158,U997661,24-10-2025,Prime,Desktop,Direct,9.8,1,13.58,Success,Valid,Normal,Purchasers
+S729737,U522091,07-10-2025,Non-Prime,Tablet,Direct,5.5,0,0.00,Product Page,Valid,Normal,Browsers
+S821950,U966703,02-10-2025,Non-Prime,Tablet,Direct,10.5,3,66.22,Checkout,Valid,Normal,Other
+S630736,U213418,12-10-2025,Prime,Mobile Web,Organic Search,5.9,3,176.66,Cart,Valid,Normal,High-Value Abandoners
+S739696,U854618,22-10-2025,Prime,Mobile App,Social Media,13.2,2,22.89,Success,Valid,Normal,Purchasers
+S766372,U600890,07-10-2025,Prime,Mobile App,Affiliate,1.8,0,0.00,Home Page,Valid,Normal,Browsers
+S804820,U497167,29-10-2025,Prime,Desktop,Paid Search,9.3,0,0.00,Product Page,Valid,Normal,Browsers
+S985688,U960479,02-10-2025,Prime,Tablet,Direct,19.0,3,77.02,Success,Valid,Normal,Purchasers
+S938070,U813485,22-10-2025,Non-Prime,Mobile App,Unknown,2.1,0,0.00,Home Page,Valid,Normal,Browsers
+S564601,U686506,01-10-2025,Prime,Desktop,Paid Search,11.3,3,54.49,Success,Valid,Normal,Purchasers
+S882274,U139352,01-10-2025,Prime,Desktop,Organic Search,19.4,2,108.72,Success,Valid,Normal,Purchasers
+S990947,U342237,15-10-2025,Prime,Mobile App,Organic Search,9.3,1,60.88,Cart,Valid,Normal,Mid-Value Abandoners
+S580329,U859821,24-10-2025,Prime,Desktop,Paid Search,6.4,2,34.08,Cart,Valid,Normal,Low-Value Abandoners
+S563648,U691634,22-10-2025,Prime,Desktop,Direct,1.3,0,0.00,Home Page,Valid,Normal,Browsers
+S775402,U178772,08-10-2025,Non-Prime,Mobile App,Organic Search,14.8,2,61.44,Payment,Valid,Normal,Other
+S993304,U995893,19-10-2025,Prime,Mobile Web,Paid Search,12.0,2,20.02,Checkout,Valid,Normal,Other
+S992903,U912274,04-10-2025,Non-Prime,Tablet,Organic Search,4.5,0,0.00,Product Page,Valid,Normal,Browsers
+S684433,U953000,14-10-2025,Non-Prime,Desktop,Organic Search,6.2,80,28.77,Payment,Valid,Normal,Other
+S707106,U730322,09-10-2025,Prime,Mobile Web,Direct,11.2,3,71.75,Success,Valid,Normal,Purchasers
+S875512,U119924,25-10-2025,Prime,Mobile App,Organic Search,4.1,0,0.00,Product Page,Valid,Normal,Browsers
+S624670,U346382,14-10-2025,Prime,Mobile App,Social Media,6.9,0,0.00,Product Page,Valid,Normal,Browsers
+S525609,U219449,27-10-2025,Non-Prime,Unknown,Direct,15.0,1,32.34,Checkout,Valid,Normal,Other
+S853063,U524876,29-10-2025,Prime,Mobile Web,Direct,3.5,0,0.00,Product Page,Valid,Normal,Browsers
+S612122,U641946,19-10-2025,Prime,Tablet,Paid Search,17.6,4,79.76,Checkout,Valid,Normal,Other
+S983513,U629627,08-10-2025,Prime,Mobile Web,Paid Search,9.6,3,53.35,Cart,Valid,Normal,Mid-Value Abandoners
+S689276,U243868,03-10-2025,Non-Prime,Mobile App,Affiliate,5.6,1,14250.00,Checkout,Valid,Potential Outlier,Other
+S500520,U436971,03-10-2025,Prime,Mobile App,Social Media,16.8,1,27.50,Success,Valid,Normal,Purchasers
+S716345,U279735,24-10-2025,Non-Prime,Desktop,Organic Search,15.8,2,53.47,Success,Valid,Normal,Purchasers
+S989339,U613303,31-10-2025,Prime,Mobile Web,Social Media,12.8,5,72.84,Payment,Valid,Normal,Other
+S653671,U866298,31-10-2025,Prime,Desktop,Email,26.1,5,170.37,Success,Valid,Normal,Purchasers
+S595341,U262721,07-10-2025,Non-Prime,Mobile App,Email,26.3,1,24.51,Checkout,Valid,Normal,Other
+S513064,U213418,21-10-2025,Prime,Desktop,Email,11.8,4,130.18,Success,Valid,Normal,Purchasers
+S641021,U322146,22-10-2025,Prime,Mobile App,Social Media,10.6,4,199.47,Success,Valid,Potential Outlier,Purchasers
+S653894,U948132,06-10-2025,Prime,Mobile Web,Organic Search,12.1,2,40.33,Success,Valid,Normal,Purchasers
+S943386,U326149,16-10-2025,Prime,Mobile Web,Email,15.3,3,76.96,Success,Valid,Normal,Purchasers
+S995857,U460950,25-10-2025,Prime,Desktop,Organic Search,14.0,4,189.69,Success,Valid,Potential Outlier,Purchasers
+S510110,U160684,23-10-2025,Prime,Desktop,Social Media,4.1,3,124.27,Cart,Valid,Normal,Mid-Value Abandoners
+S922324,U450847,14-10-2025,Prime,Tablet,Direct,14.2,5,198.68,Success,Valid,Potential Outlier,Purchasers
+S656623,U169444,29-10-2025,Prime,Mobile Web,Organic Search,33.1,1,22.07,Success,Valid,Normal,Purchasers
+S510904,U656198,21-10-2025,Prime,Mobile App,Organic Search,9.4,4,,Checkout,Valid,Normal,Other
+S983592,U737160,15-10-2025,Prime,Mobile App,Organic Search,,2,204.94,Success,Valid,Potential Outlier,Purchasers
+S527651,U285951,31-10-2025,Prime,Unknown,Email,1.7,0,0.00,Home Page,Valid,Normal,Browsers
+S604961,U243868,11-10-2025,Non-Prime,Desktop,Organic Search,9.0,4,68.59,Checkout,Valid,Normal,Other
+S620653,U349075,22-10-2025,Prime,Mobile Web,Direct,1.1,0,0.00,Home Page,Valid,Normal,Browsers
+S558636,U221240,29-10-2025,Non-Prime,Mobile Web,Direct,5.5,0,0.00,Product Page,Valid,Normal,Browsers
+S936484,U962100,29-10-2025,Prime,Mobile App,Direct,12.6,2,87.52,Cart,Valid,Normal,Mid-Value Abandoners
+S936744,U796133,27-10-2025,Prime,Mobile App,Organic Search,21.0,3,384.14,Success,Valid,Potential Outlier,Purchasers
+S783417,U842942,24-10-2025,Prime,Desktop,Direct,8.4,0,0.00,Product Page,Valid,Normal,Browsers
+S927524,U272345,28-10-2025,Non-Prime,Mobile App,Social Media,1.5,0,0.00,Home Page,Valid,Normal,Browsers
+S688615,U355110,16-10-2025,Non-Prime,Mobile Web,Organic Search,33.6,1,45.66,Success,Valid,Normal,Purchasers
+S774344,U272345,07-10-2025,Non-Prime,Mobile App,Affiliate,1.2,0,0.00,Home Page,Valid,Normal,Browsers
+S766737,U430420,22-10-2025,Prime,Mobile App,Social Media,1.2,0,0.00,Home Page,Valid,Normal,Browsers
+S594836,U671597,26-10-2025,Prime,Mobile App,Direct,7.8,0,0.00,Product Page,Valid,Normal,Browsers
+S639049,U820467,23-10-2025,Prime,Mobile Web,Direct,20.1,1,15.56,Success,Valid,Normal,Purchasers
+S594474,U237799,29-10-2025,Non-Prime,Desktop,Organic Search,7.1,3,25.67,Cart,Valid,Normal,Low-Value Abandoners
+S868630,U428345,01-10-2025,Prime,Mobile App,Organic Search,1.5,0,0.00,Product Page,Valid,Normal,Browsers
+S613555,U192272,27-10-2025,Prime,Mobile App,Email,18.2,2,77.98,Success,Valid,Normal,Purchasers
+S976460,U666702,12-10-2025,Prime,Mobile App,Email,19.6,2,43.33,Success,Valid,Normal,Purchasers
+S548089,U253420,13-10-2025,Non-Prime,Tablet,Direct,7.4,2,81.68,Success,Valid,Normal,Purchasers
+S676951,U631342,14-10-2025,Prime,Desktop,Direct,7.8,1,6.26,Checkout,Valid,Normal,Other
+S670431,U389525,18-10-2025,Prime,Unknown,Direct,25.1,3,21.03,Success,Valid,Normal,Purchasers
+S965063,U957508,24-10-2025,Non-Prime,Mobile Web,Organic Search,2.5,0,0.00,Home Page,Valid,Normal,Browsers
+S962340,U814769,31-10-2025,non-prime,Mobile Web,Organic Search,3.7,0,0.00,Product Page,Valid,Normal,Browsers
+S512503,U516077,23-10-2025,Prime,Tablet,Paid Search,12.4,1,52.79,Payment,Valid,Normal,Other
+S501609,U291298,06-10-2025,Prime,Mobile App,Organic Search,5.5,0,0.00,Product Page,Valid,Normal,Browsers
+S792734,U352822,19-10-2025,Non-Prime,Mobile App,Paid Search,4.2,3,28.61,Cart,Valid,Normal,Low-Value Abandoners
+S619077,U354959,21-10-2025,Non-Prime,Desktop,Direct,15.0,3,156.84,Success,Valid,Normal,Purchasers
+S863184,U377647,30-10-2025,Non-Prime,Mobile Web,Direct,1.7,0,0.00,Home Page,Valid,Normal,Browsers
+S935621,U817048,10-10-2025,Non-Prime,Desktop,Direct,,1,12.19,Cart,Valid,Normal,Low-Value Abandoners
+S732303,U346382,21-10-2025,Prime,Desktop,Email,15.9,5,135.47,Success,Valid,Normal,Purchasers
+S547467,U507196,03-10-2025,Non-Prime,Tablet,Direct,3.2,0,0.00,Product Page,Valid,Normal,Browsers
+S818595,U169229,29-10-2025,Non-Prime,Mobile App,Paid Search,9.2,2,63.77,Payment,Valid,Normal,Other
+S834833,U780911,14-10-2025,Prime,Tablet,Organic Search,22.9,1,23.93,Success,Valid,Normal,Purchasers
+S914301,U707780,30-10-2025,Prime,Desktop,Affiliate,20.3,2,169.50,Success,Valid,Normal,Purchasers
+S983682,U828928,09-10-2025,Prime,Mobile App,Affiliate,6.3,1,9.94,Cart,Valid,Normal,Low-Value Abandoners
+S999833,U588582,05-10-2025,Prime,Mobile App,Social Media,11.0,0,0.00,Product Page,Valid,Normal,Browsers
+S886274,U741617,28-10-2025,Non-Prime,Unknown,Direct,7.1,3,32.71,Cart,Valid,Normal,Low-Value Abandoners
+S511318,U267273,21-10-2025,Prime,Unknown,Affiliate,3.8,0,0.00,Product Page,Valid,Normal,Browsers
+S758031,U662866,25-10-2025,Non-Prime,Mobile Web,Organic Search,3.7,0,0.00,Product Page,Valid,Normal,Browsers
+S543087,U873815,18-10-2025,Prime,Mobile App,Direct,16.6,2,52.45,Payment,Valid,Normal,Other
+S666161,U442433,14-10-2025,Prime,Desktop,Direct,6.0,3,96.64,Checkout,Valid,Normal,Other
+S962343,U815338,27-10-2025,Non-Prime,Mobile App,Organic Search,10.1,2,95.30,Success,Valid,Normal,Purchasers
+S797474,U984520,06-10-2025,Non-Prime,Mobile Web,Organic Search,22.3,1,28.05,Success,Valid,Normal,Purchasers
+S707305,U105983,16-10-2025,Prime,Desktop,Direct,2.7,0,0.00,Home Page,Valid,Normal,Browsers
+S569773,U113517,13-10-2025,Prime,Desktop,Direct,28.6,2,29.29,Checkout,Valid,Normal,Other
+S642009,U703902,19-10-2025,Non-Prime,Tablet,Direct,24.3,1,20.19,Success,Valid,Normal,Purchasers
+S780448,U852899,29-10-2025,Non-Prime,Desktop,Direct,14.4,3,132.30,Cart,Valid,Normal,Mid-Value Abandoners
+S963294,U928138,16-10-2025,Non-Prime,Tablet,Direct,2.4,0,0.00,Product Page,Valid,Normal,Browsers
+S571718,U316462,23-10-2025,Prime,Desktop,Email,,2,53.58,Checkout,Valid,Normal,Other
+S914425,U412633,31-10-2025,Prime,Desktop,Email,6.0,1,35.92,Cart,Valid,Normal,Low-Value Abandoners
+S684588,U827659,24-10-2025,Prime,Mobile App,Direct,21.8,2,73.96,Payment,Valid,Normal,Other
+S887967,U589643,20-10-2025,Prime,Desktop,Affiliate,1.5,0,0.00,Home Page,Valid,Normal,Browsers
+S546317,U565500,20-10-2025,Prime,Mobile Web,Organic Search,3.0,0,0.00,Product Page,Valid,Normal,Browsers
+S710590,U912380,15-10-2025,Non-Prime,Mobile App,Organic Search,18.7,2,52.89,Success,Valid,Normal,Purchasers
+S747249,U179344,25-10-2025,Non-Prime,Tablet,Affiliate,14.3,1,29.92,Payment,Valid,Normal,Other
+S637402,U121190,23-10-2025,Prime,Mobile Web,Organic Search,3.2,0,0.00,Home Page,Valid,Normal,Browsers
+S713223,U280084,09-10-2025,Non-Prime,Mobile Web,Paid Search,6.0,2,63.10,Success,Valid,Normal,Purchasers
+S991620,U221240,28-10-2025,Non-Prime,Mobile Web,Paid Search,19.1,1,57.52,Payment,Valid,Normal,Other
+S521535,U641946,14-10-2025,Prime,Mobile App,Direct,5.3,4,311.22,Cart,Valid,Potential Outlier,High-Value Abandoners
+S801732,U481197,11-10-2025,Prime,Mobile Web,Unknown,20.8,1,58.42,Success,Valid,Normal,Purchasers
+S988563,U960479,19-10-2025,Prime,Mobile App,Organic Search,8.4,1,28.06,Cart,Valid,Normal,Low-Value Abandoners
+S802550,U839676,08-10-2025,Non-Prime,Tablet,Organic Search,3.6,0,0.00,Product Page,Valid,Normal,Browsers
+S882424,U346382,28-10-2025,Prime,Tablet,Paid Search,10.7,2,163.84,Success,Valid,Normal,Purchasers
+S520857,U442840,17-10-2025,Prime,Mobile App,Unknown,40.4,55,32.42,Success,Valid,Normal,Purchasers
+S529509,U544870,11-10-2025,Prime,Unknown,Social Media,5.0,2,108.44,Cart,Valid,Normal,Mid-Value Abandoners
+S990621,U490753,30-10-2025,Prime,Desktop,Direct,28.6,5,81.83,Success,Valid,Normal,Purchasers
+S961083,U500657,15-10-2025,Non-Prime,Desktop,Unknown,22.1,1,30.93,Success,Valid,Normal,Purchasers
+S952910,U399109,03-10-2025,Non-Prime,Desktop,Unknown,4.9,0,0.00,Product Page,Valid,Normal,Browsers
+S642408,U376663,02-10-2025,Non-Prime,Tablet,Organic Search,3.9,0,0.00,Product Page,Valid,Normal,Browsers
+S969841,U610165,15-10-2025,Prime,Desktop,Direct,16.4,3,531.74,Cart,Valid,Potential Outlier,High-Value Abandoners
+S656738,U233576,05-10-2025,Non-Prime,Mobile App,Organic Search,4.5,0,0.00,Product Page,Valid,Normal,Browsers
+S904038,U449263,25-10-2025,Non-Prime,Desktop,Paid Search,7.3,2,107.65,Cart,Valid,Normal,Mid-Value Abandoners
+S657711,U351498,08-10-2025,Prime,Desktop,Direct,3.3,0,0.00,Product Page,Valid,Normal,Browsers
+S595165,U953000,07-10-2025,Non-Prime,Desktop,Direct,11.7,0,0.00,Product Page,Valid,Normal,Browsers
+S777191,U984520,11-10-2025,Non-Prime,Mobile Web,Social Media,2.2,0,0.00,Product Page,Valid,Normal,Browsers
+S721039,U349924,11-10-2025,Non-Prime,Tablet,Paid Search,6.5,1,36.14,Success,Valid,Normal,Purchasers
+S733054,U948132,27-10-2025,Prime,Mobile App,Direct,13.8,1,28.04,Success,Valid,Normal,Purchasers
+S895622,U642797,14-10-2025,Non-Prime,Desktop,Email,20.7,2,50.34,Success,Valid,Normal,Purchasers
+S848093,U220324,13-10-2025,Prime,Mobile App,Organic Search,1.3,0,0.00,Home Page,Valid,Normal,Browsers
+S752365,U447228,21-10-2025,Non-Prime,Desktop,Email,8.5,2,69.84,Success,Valid,Normal,Purchasers
+S753589,U981978,29-10-2025,Prime,Tablet,Organic Search,9.3,4,75.44,Payment,Valid,Normal,Other
+S731209,U210135,02-10-2025,Prime,Mobile App,Organic Search,5.3,3,138.97,Cart,Valid,Normal,Mid-Value Abandoners
+S818445,U620530,17-10-2025,Prime,Desktop,Direct,45.9,1,40.43,Success,Valid,Normal,Purchasers
+S714034,U735577,20-10-2025,Non-Prime,Desktop,Social Media,2.7,3,24.75,Cart,Valid,Normal,Low-Value Abandoners
+S988095,U992571,23-10-2025,Unknown,Mobile Web,Social Media,6.4,1,18.65,Success,Valid,Normal,Purchasers
+S576540,U780911,30-10-2025,Prime,Desktop,Email,26.7,2,96.58,Success,Valid,Normal,Purchasers
+S616691,U607852,18-10-2025,Non-Prime,Mobile App,Direct,11.8,2,59.05,Success,Valid,Normal,Purchasers
+S661985,U136905,31-10-2025,Prime,Mobile App,Organic Search,6.6,1,20.19,Cart,Valid,Normal,Low-Value Abandoners
+S856669,U342237,31-10-2025,prime,Mobile Web,Paid Search,11.7,3,65.24,Success,Valid,Normal,Purchasers
+S796982,U701344,30-10-2025,Prime,Mobile Web,Direct,16.7,1,23.79,Success,Valid,Normal,Purchasers
+S856986,U482123,22-10-2025,Prime,Mobile App,Direct,3.4,0,0.00,Product Page,Valid,Normal,Browsers
+S580310,U673269,17-10-2025,Prime,Desktop,Email,3.7,0,0.00,Product Page,Valid,Normal,Browsers
+S708422,U138882,15-10-2025,Non-Prime,Mobile Web,Direct,12.4,1,48.84,Success,Valid,Normal,Purchasers
+S634975,U815036,26-10-2025,Non-Prime,Mobile Web,Email,6.8,2,34.92,Cart,Valid,Normal,Low-Value Abandoners
+S977302,U453076,04-10-2025,Prime,Mobile Web,Paid Search,6.3,3,44.70,Success,Valid,Normal,Purchasers
+S929157,U443928,23-10-2025,Non-Prime,Tablet,Email,2.6,0,0.00,Product Page,Valid,Normal,Browsers
+S666757,U948132,12-10-2025,Prime,Mobile App,Direct,17.5,3,128.17,Checkout,Valid,Normal,Other
+S780583,U932479,25-10-2025,Non-Prime,Mobile Web,Social Media,3.3,0,0.00,Product Page,Valid,Normal,Browsers
+S718024,U513975,16-10-2025,Prime,Desktop,Paid Search,21.9,1,35.32,Success,Valid,Normal,Purchasers
+S961547,U461885,11-10-2025,Non-Prime,Mobile App,Social Media,1.6,0,0.00,Home Page,Valid,Normal,Browsers
+S895972,U208589,22-10-2025,Non-Prime,Desktop,Organic Search,3.9,0,0.00,Product Page,Valid,Normal,Browsers
+S946073,U642722,07-10-2025,Non-Prime,Desktop,Organic Search,6.0,2,42.28,Success,Valid,Normal,Purchasers
+S980853,U138932,09-10-2025,Unknown,Desktop,Organic Search,21.1,2,19.49,Success,Valid,Normal,Purchasers
+S800307,U190064,05-10-2025,Prime,Desktop,Email,1.6,0,0.00,Product Page,Valid,Normal,Browsers
+S588756,U537773,29-10-2025,Prime,Tablet,Organic Search,6.4,2,58.06,Success,Valid,Normal,Purchasers
+S574137,U796133,04-10-2025,Prime,Desktop,Paid Search,9.6,1,12.97,Cart,Valid,Normal,Low-Value Abandoners
+S721999,U949795,29-10-2025,Non-Prime,Mobile App,Unknown,3.2,0,0.00,Product Page,Valid,Normal,Browsers
+S865345,U780911,08-10-2025,Prime,Mobile Web,Email,20.5,3,94.00,Success,Valid,Normal,Purchasers
+S849901,U396395,15-10-2025,Prime,Mobile App,Unknown,1.4,0,0.00,Home Page,Valid,Normal,Browsers
+S612552,U270118,29-10-2025,Non-Prime,Mobile Web,Social Media,11.0,1,30.07,Cart,Valid,Normal,Low-Value Abandoners
+S938204,U613303,09-10-2025,Prime,Desktop,Unknown,0.9,0,0.00,Home Page,Valid,Normal,Browsers
+S866224,U833774,26-10-2025,Non-Prime,Desktop,Organic Search,13.4,2,37.79,Payment,Valid,Normal,Other
+S952498,U157883,19-10-2025,Prime,Mobile Web,Paid Search,17.3,2,63.75,Success,Valid,Normal,Purchasers
+S731190,U121190,03-10-2025,Prime,Mobile Web,Email,7.8,0,0.00,Product Page,Valid,Normal,Browsers
+S640722,U448975,24-10-2025,Prime,Mobile App,Organic Search,15.3,2,91.10,Success,Valid,Normal,Purchasers
+S656583,U488873,21-10-2025,Prime,Mobile Web,Direct,2.7,0,0.00,Home Page,Valid,Normal,Browsers
+S571154,U267273,22-10-2025,Prime,Mobile App,Social Media,8.9,4,93.81,Success,Valid,Normal,Purchasers
+S562754,U187262,26-10-2025,Non-Prime,Mobile Web,Paid Search,45.8,2,32.06,Success,Valid,Normal,Purchasers
+S811781,U340233,16-10-2025,Prime,Mobile Web,Email,1.4,0,0.00,Home Page,Valid,Normal,Browsers
+S837070,U500657,13-10-2025,Non-Prime,Desktop,Organic Search,4.9,0,0.00,Product Page,Valid,Normal,Browsers
+S927571,U273380,09-10-2025,Non-Prime,Mobile Web,Direct,21.1,2,45.50,Success,Valid,Normal,Purchasers
+S885050,U243868,18-10-2025,Non-Prime,Desktop,Organic Search,17.9,2,61.49,Checkout,Valid,Normal,Other
+S773149,U213089,08-10-2025,Prime,Desktop,Direct,2.5,0,0.00,Home Page,Valid,Normal,Browsers
+S720902,U747675,30-10-2025,Prime,Unknown,Direct,34.1,2,182.69,Success,Valid,Normal,Purchasers
+S559987,U447228,01-10-2025,Non-Prime,Desktop,Email,7.9,3,437.29,Cart,Valid,Potential Outlier,High-Value Abandoners
+S907675,U561173,25-10-2025,Non-Prime,Mobile App,Social Media,2.4,0,0.00,Home Page,Valid,Normal,Browsers
+S813335,U223239,04-10-2025,Non-Prime,Desktop,Direct,6.9,4,52.45,Cart,Valid,Normal,Mid-Value Abandoners
+S663934,U866909,25-10-2025,Non-Prime,Desktop,Paid Search,5.0,0,0.00,Product Page,Valid,Normal,Browsers
+S628771,U193266,07-10-2025,Prime,Mobile Web,Organic Search,6.0,1,53.20,Success,Valid,Normal,Purchasers
+S911547,U366437,26-10-2025,Non-Prime,Desktop,Social Media,12.2,1,17.78,Payment,Valid,Normal,Other
+S973190,U208589,08-10-2025,Non-Prime,Mobile App,Email,10.5,3,99.54,Cart,Valid,Normal,Mid-Value Abandoners
+S992112,U328269,24-10-2025,Prime,Desktop,Organic Search,33.1,1,62.04,Success,Valid,Normal,Purchasers
+S584300,U922607,13-10-2025,Unknown,Mobile App,Paid Search,17.2,1,45.29,Cart,Valid,Normal,Low-Value Abandoners
+S843953,U715041,18-10-2025,Non-Prime,Mobile Web,Organic Search,10.9,4,113.83,Success,Valid,Normal,Purchasers
+S507023,U610690,09-10-2025,Prime,Mobile Web,Direct,11.6,3,167.85,Success,Valid,Normal,Purchasers
+S669478,U154294,08-10-2025,Non-Prime,Mobile App,Email,10.8,1,32.12,Success,Valid,Normal,Purchasers
+S520733,U210270,21-10-2025,Prime,Mobile App,Direct,683.0,2,144.30,Success,Valid,Normal,Purchasers
+S731194,U674094,24-10-2025,Non-Prime,Desktop,Direct,5.0,0,0.00,Product Page,Valid,Normal,Browsers
+S928130,U105983,06-10-2025,Prime,Mobile Web,Organic Search,22.0,2,48.01,Cart,Valid,Normal,Low-Value Abandoners
+S627016,U297260,18-10-2025,Prime,Mobile App,Organic Search,16.4,1,12.16,Success,Valid,Normal,Purchasers
+S821343,U943599,21-10-2025,Prime,Mobile App,Unknown,17.2,2,34.19,Success,Valid,Normal,Purchasers
+S746281,U868646,27-10-2025,Prime,Desktop,Direct,7.8,0,0.00,Product Page,Valid,Normal,Browsers
+S987803,U316462,16-10-2025,Prime,Mobile Web,Paid Search,22.7,2,118.51,Success,Valid,Normal,Purchasers
+S919932,U606303,15-10-2025,Non-Prime,Mobile Web,Social Media,6.2,0,0.00,Product Page,Valid,Normal,Browsers
+S671887,U368036,19-10-2025,Prime,Tablet,Unknown,1.4,0,0.00,Home Page,Valid,Normal,Browsers
+S991071,U700390,10-10-2025,Prime,Desktop,Direct,1.6,0,0.00,Home Page,Valid,Normal,Browsers
+S633337,U248421,09-10-2025,Prime,Desktop,Organic Search,4.3,0,0.00,Product Page,Valid,Normal,Browsers
+S531273,U328634,04-10-2025,Prime,Mobile App,Organic Search,3.4,3,44.47,Success,Valid,Normal,Purchasers
+S724633,U892663,31-10-2025,prime,Mobile App,Organic Search,7.7,2,37.02,Cart,Valid,Normal,Low-Value Abandoners
+S593509,U593603,15-10-2025,Non-Prime,Desktop,Paid Search,2.5,0,0.00,Product Page,Valid,Normal,Browsers
+S857247,U198522,09-10-2025,Non-Prime,Mobile App,Organic Search,10.9,1,55.20,Success,Valid,Normal,Purchasers
+S538322,U842942,26-10-2025,Prime,Mobile App,Direct,8.9,2,64.40,Cart,Valid,Normal,Mid-Value Abandoners
+S732876,U533322,10-10-2025,Prime,Desktop,Direct,15.8,2,20.99,Success,Valid,Normal,Purchasers
+S722161,U405528,23-10-2025,Non-Prime,Mobile Web,Direct,10.6,2,88.10,Payment,Valid,Normal,Other
+S713587,U961322,10-10-2025,Prime,Desktop,Direct,21.7,4,187.30,Success,Valid,Potential Outlier,Purchasers
+S691267,U524605,09-10-2025,Prime,Desktop,Email,,0,0.00,Home Page,Valid,Normal,Browsers
+S917712,U188594,12-10-2025,Non-Prime,Tablet,Paid Search,29.1,2,94.89,Payment,Valid,Normal,Other
+S641891,U959152,19-10-2025,Non-Prime,Mobile App,Social Media,24.3,2,92.33,Success,Valid,Normal,Purchasers
+S950391,U531909,23-10-2025,Non-Prime,Desktop,Paid Search,7.9,4,66.76,Cart,Valid,Normal,Mid-Value Abandoners
+S889824,U922607,13-10-2025,Prime,Desktop,Direct,1.1,0,0.00,Home Page,Valid,Normal,Browsers
+S707942,U531905,07-10-2025,Non-Prime,Desktop,Direct,50.1,3,153.60,Success,Valid,Normal,Purchasers
+S809678,U340233,31-10-2025,Prime,Mobile Web,Direct,1.8,0,0.00,Home Page,Valid,Normal,Browsers
+S551083,U741365,13-10-2025,Non-Prime,Mobile Web,Direct,2.6,0,0.00,Product Page,Valid,Normal,Browsers
+S682142,U158712,13-10-2025,Non-Prime,Unknown,Organic Search,4.9,1,17.49,Checkout,Valid,Normal,Other
+S770482,U597925,17-10-2025,Non-Prime,Mobile Web,Direct,28.5,3,110.56,Success,Valid,Normal,Purchasers
+S699392,U840860,27-10-2025,Prime,Mobile App,Organic Search,1.6,0,0.00,Home Page,Valid,Normal,Browsers
+S622752,U999880,06-10-2025,Prime,Tablet,Organic Search,6.3,4,26.17,Payment,Valid,Normal,Other
+S535422,U992571,13-10-2025,Non-Prime,Mobile Web,Direct,3.4,0,0.00,Product Page,Valid,Normal,Browsers
+S576267,U432136,08-10-2025,Prime,Mobile App,Organic Search,22.0,1,31.61,Success,Valid,Normal,Purchasers
+S692282,U842170,24-10-2025,Non-Prime,Mobile App,Organic Search,10.4,0,0.00,Product Page,Valid,Normal,Browsers
+S522107,U357635,15-10-2025,Non-Prime,Mobile Web,Direct,13.0,3,65.73,Checkout,Valid,Normal,Other
+S806868,U525955,26-10-2025,Prime,Desktop,Email,8.3,1,14.93,Success,Valid,Normal,Purchasers
+S669160,U971275,06-10-2025,Non-Prime,Mobile Web,Organic Search,10.4,1,8.71,Payment,Valid,Normal,Other
+S828811,U522091,28-10-2025,non-prime,Mobile App,Organic Search,17.9,2,134.79,Payment,Valid,Normal,Other
+S983015,U476785,12-10-2025,Prime,Desktop,Direct,22.0,1,26.64,Success,Valid,Normal,Purchasers
+S826016,U823022,27-10-2025,Non-Prime,Desktop,Social Media,10.5,2,37.08,Success,Valid,Normal,Purchasers
+S768204,U102688,15-10-2025,Non-Prime,Mobile Web,Organic Search,5.5,0,0.00,Product Page,Valid,Normal,Browsers
+S621141,U775324,17-10-2025,Non-Prime,Mobile App,Email,4.4,1,17.43,Cart,Valid,Normal,Low-Value Abandoners
+S738049,U331549,26-10-2025,Prime,Mobile App,Social Media,9.6,2,79.53,Cart,Valid,Normal,Mid-Value Abandoners
+S788296,U210135,04-10-2025,Prime,Mobile App,Direct,1.3,0,0.00,Home Page,Valid,Normal,Browsers
+S699992,U518801,06-10-2025,Non-Prime,Mobile App,Direct,3.9,0,0.00,Product Page,Valid,Normal,Browsers
+S572885,U552571,17-10-2025,Prime,Mobile App,Unknown,8.8,1,53.25,Checkout,Valid,Normal,Other
+S716059,U460901,18-10-2025,Non-Prime,Mobile App,Direct,0.8,0,0.00,Home Page,Valid,Normal,Browsers
+S548145,U531905,10-10-2025,Non-Prime,Mobile Web,Direct,18.7,1,19.80,Checkout,Valid,Normal,Other
+S535433,U229214,11-10-2025,Non-Prime,Desktop,Affiliate,,2,44.93,Success,Valid,Normal,Purchasers
+S884870,U688016,23-10-2025,Non-Prime,Mobile App,Organic Search,22.4,4,159.68,Checkout,Valid,Normal,Other
+S665285,U959688,16-10-2025,Prime,Desktop,Social Media,7.6,1,54.83,Cart,Valid,Normal,Mid-Value Abandoners
+S862598,U507517,03-10-2025,Non-Prime,Mobile Web,Social Media,2.3,0,0.00,Home Page,Valid,Normal,Browsers
+S746342,U355822,31-10-2025,Prime,Tablet,Email,14.2,4,78.55,Payment,Valid,Normal,Other
+S882861,U190064,07-10-2025,Prime,Mobile App,Paid Search,11.8,3,77.46,Success,Valid,Normal,Purchasers
+S548849,U213089,03-10-2025,Prime,Desktop,Direct,4.7,3,75.99,Cart,Valid,Normal,Mid-Value Abandoners
+S838680,U799983,16-10-2025,Prime,Desktop,Paid Search,5.4,2,142.90,Success,Valid,Normal,Purchasers
+S631651,U319269,03-10-2025,Non-Prime,Desktop,Organic Search,6.5,2,35.63,Success,Valid,Normal,Purchasers
+S796798,U340233,04-10-2025,Prime,Desktop,Email,11.8,2,46.60,Success,Valid,Normal,Purchasers
+S818639,U516077,27-10-2025,prime,Mobile Web,Email,3.2,0,0.00,Product Page,Valid,Normal,Browsers
+S947428,U533322,13-10-2025,Prime,Desktop,Organic Search,14.0,1,28.21,Success,Valid,Normal,Purchasers
+S616708,U447308,06-10-2025,Non-Prime,Tablet,Email,0.7,0,0.00,Home Page,Valid,Normal,Browsers
+S686368,U349229,11-10-2025,Non-Prime,Mobile App,Organic Search,3.8,0,0.00,Product Page,Valid,Normal,Browsers
+S970896,U600890,23-10-2025,Prime,Mobile App,Direct,17.4,1,16.17,Success,Valid,Normal,Purchasers
+S799702,U960479,04-10-2025,Prime,Mobile App,Affiliate,6.2,0,0.00,Product Page,Valid,Normal,Browsers
+S698063,U266254,30-10-2025,Non-Prime,Mobile App,Email,8.6,4,99.97,Cart,Valid,Normal,Mid-Value Abandoners
+S703610,U595318,13-10-2025,Non-Prime,Tablet,Direct,14.6,0,0.00,Product Page,Valid,Normal,Browsers
+S576401,U911979,27-10-2025,Non-Prime,Mobile Web,Direct,2.0,0,0.00,Product Page,Valid,Normal,Browsers
+S951275,U272345,19-10-2025,Non-Prime,Mobile Web,Organic Search,7.0,2,23.20,Success,Valid,Normal,Purchasers
+S677769,U615715,26-10-2025,Non-Prime,Desktop,Affiliate,8.7,4,45.55,Cart,Valid,Normal,Low-Value Abandoners
+S654199,U263691,08-10-2025,Prime,Mobile App,Organic Search,,0,0.00,Product Page,Valid,Normal,Browsers
+S554812,U109966,29-10-2025,Prime,Mobile App,Paid Search,20.3,2,69.64,Success,Valid,Normal,Purchasers
+S621979,U741617,17-10-2025,Non-Prime,Mobile App,Social Media,2.4,0,0.00,Product Page,Valid,Normal,Browsers
+S789694,U138187,04-10-2025,Non-Prime,Desktop,Paid Search,1.5,0,0.00,Home Page,Valid,Normal,Browsers
+S967098,U859244,05-10-2025,Prime,Desktop,Paid Search,8.6,1,22.50,Success,Valid,Normal,Purchasers
+S718926,U813077,19-10-2025,Prime,Mobile Web,Unknown,2.3,0,0.00,Product Page,Valid,Normal,Browsers
+S971588,U559254,20-10-2025,Prime,Mobile Web,Paid Search,19.8,2,64.42,Payment,Valid,Normal,Other
+S958596,U312018,13-10-2025,Prime,Tablet,Direct,13.4,1,47.83,Success,Valid,Normal,Purchasers
+S946977,U565372,05-10-2025,Prime,Unknown,Direct,4.1,3,73.66,Cart,Valid,Normal,Mid-Value Abandoners
+S756169,U552571,13-10-2025,Prime,Mobile App,Direct,5.5,1,27.23,Cart,Valid,Normal,Low-Value Abandoners
+S892197,U901108,30-10-2025,Prime,Desktop,Social Media,3.5,0,0.00,Product Page,Valid,Normal,Browsers
+S764540,U448975,15-10-2025,Prime,Tablet,Paid Search,4.6,0,0.00,Product Page,Valid,Normal,Browsers
+S789998,U946846,10-10-2025,Non-Prime,Mobile Web,Affiliate,9.7,1,30.59,Cart,Valid,Normal,Low-Value Abandoners
+S894618,U826002,24-10-2025,Non-Prime,Mobile App,Paid Search,2.3,0,0.00,Product Page,Valid,Normal,Browsers
+S777304,U156783,31-10-2025,Prime,Mobile App,Direct,1.0,0,0.00,Home Page,Valid,Normal,Browsers
+S953627,U597925,06-10-2025,Non-Prime,Tablet,Direct,5.7,2,68.44,Checkout,Valid,Normal,Other
+S732687,U138187,12-10-2025,Non-Prime,Mobile Web,Email,9.5,4,156.87,Success,Valid,Normal,Purchasers
+S828518,U149519,12-10-2025,Prime,Mobile Web,Paid Search,13.2,2,112.03,Payment,Valid,Normal,Other
+S537322,U531909,11-10-2025,Non-Prime,Mobile App,Paid Search,10.5,1,16.79,Checkout,Valid,Normal,Other
+S913356,U497167,15-10-2025,Prime,Mobile App,Organic Search,3.4,0,0.00,Product Page,Valid,Normal,Browsers
+S813535,U515168,26-10-2025,Prime,Mobile App,Direct,0.6,0,0.00,Home Page,Valid,Normal,Browsers
+S803993,U204024,15-10-2025,Prime,Desktop,Direct,14.8,4,52.39,Success,Valid,Normal,Purchasers
+S795063,U828928,03-10-2025,Prime,Tablet,Organic Search,4.5,0,0.00,Product Page,Valid,Normal,Browsers
+S960189,U129696,08-10-2025,Non-Prime,Mobile App,Email,1.3,0,0.00,Home Page,Valid,Normal,Browsers
+S606238,U827393,01-10-2025,Prime,Mobile App,Affiliate,5.9,6,110.01,Success,Valid,Normal,Purchasers
+S585416,U649655,17-10-2025,Non-Prime,Mobile App,Organic Search,11.9,2,57.22,Success,Valid,Normal,Purchasers
+S521425,U187262,19-10-2025,Non-Prime,Desktop,Direct,9.9,5,46.07,Success,Valid,Normal,Purchasers
+S521187,U301051,08-10-2025,Non-Prime,Desktop,Organic Search,4.7,0,0.00,Product Page,Valid,Normal,Browsers
+S807297,U291298,26-10-2025,Prime,Mobile App,Email,8.5,2,82.75,Cart,Valid,Normal,Mid-Value Abandoners
+S821290,U991957,08-10-2025,Non-Prime,Desktop,Affiliate,1.5,0,0.00,Home Page,Valid,Normal,Browsers
+S896727,U981978,01-10-2025,Prime,Desktop,Organic Search,6.3,1,30.39,Cart,Valid,Normal,Low-Value Abandoners
+S574720,U338733,01-10-2025,Prime,Mobile App,Paid Search,8.4,1,25.26,Cart,Valid,Normal,Low-Value Abandoners
+S896194,U953208,13-10-2025,Prime,Mobile App,Paid Search,8.8,0,0.00,Product Page,Valid,Normal,Browsers
+S874404,U801194,29-10-2025,Non-Prime,Desktop,Direct,2.6,0,0.00,Home Page,Valid,Normal,Browsers
+S571532,U988450,26-10-2025,Non-Prime,Mobile Web,Direct,5.3,2,28.50,Cart,Valid,Normal,Low-Value Abandoners
+S604054,U537773,29-10-2025,Prime,Mobile App,Email,10.2,0,0.00,Product Page,Valid,Normal,Browsers
+S599586,U149519,12-10-2025,Prime,Mobile Web,Direct,3.2,0,0.00,Product Page,Valid,Normal,Browsers
+S814082,U997144,30-10-2025,Non-Prime,Desktop,Direct,10.1,2,20.36,Cart,Valid,Normal,Low-Value Abandoners
+S973399,U541963,12-10-2025,Prime,Mobile App,Direct,10.5,2,44.95,Checkout,Valid,Normal,Other
+S710456,U156783,26-10-2025,Prime,Mobile App,Organic Search,14.3,3,125.69,Cart,Valid,Normal,Mid-Value Abandoners
+S677904,U447866,03-10-2025,Prime,Desktop,Social Media,6.1,0,0.00,Product Page,Valid,Normal,Browsers
+S786964,U450847,11-10-2025,Prime,Mobile Web,Email,12.5,4,94.40,Payment,Valid,Normal,Other
+S529855,U180866,24-10-2025,Prime,Mobile App,Paid Search,8.9,1,18.92,Checkout,Valid,Normal,Other
+S932159,U699549,24-10-2025,Prime,Mobile App,Social Media,4.5,2,109.37,Cart,Valid,Normal,Mid-Value Abandoners
+S531345,U688820,16-10-2025,Non-Prime,Desktop,Unknown,4.7,0,0.00,Product Page,Valid,Normal,Browsers
+S818964,U688016,27-10-2025,Non-Prime,Mobile Web,Direct,17.3,2,117.86,Success,Valid,Normal,Purchasers
+S887692,U224869,08-10-2025,Prime,Mobile Web,Direct,0.9,0,0.00,Home Page,Valid,Normal,Browsers
+S690574,U533476,22-10-2025,Non-Prime,Desktop,Unknown,10.1,3,81.46,Checkout,Valid,Normal,Other
+S793804,U626329,30-10-2025,Prime,Mobile App,Direct,4.6,3,55.43,Checkout,Valid,Normal,Other
+S856661,U437110,26-10-2025,Non-Prime,Mobile Web,Direct,28.0,1,60.32,Success,Valid,Normal,Purchasers
+S629553,U160608,31-10-2025,Prime,Desktop,Paid Search,17.5,1,20.86,Checkout,Valid,Normal,Other
+S625212,U647710,25-10-2025,Prime,Tablet,Organic Search,7.1,3,120.68,Success,Valid,Normal,Purchasers
+S697261,U192272,08-10-2025,Prime,Mobile App,Email,2.8,0,0.00,Product Page,Valid,Normal,Browsers
+S967456,U184852,20-10-2025,Prime,Desktop,Social Media,3.6,0,0.00,Product Page,Valid,Normal,Browsers
+S568429,U867323,25-10-2025,Non-Prime,Mobile App,Organic Search,12.9,3,45.62,Success,Valid,Normal,Purchasers
+S792610,U578677,24-10-2025,Non-Prime,Mobile App,Organic Search,14.1,4,63.03,Cart,Valid,Normal,Mid-Value Abandoners
+S798803,U340233,13-10-2025,Prime,Desktop,Organic Search,14.5,3,46.35,Success,Valid,Normal,Purchasers
+S751479,U525955,10-10-2025,Prime,Desktop,Social Media,13.5,2,48.48,Success,Valid,Normal,Purchasers
+S741531,U390311,31-10-2025,Non-Prime,Desktop,Organic Search,2.5,0,0.00,Product Page,Valid,Normal,Browsers
+S929596,U476852,15-10-2025,Prime,Desktop,Paid Search,11.9,2,145.95,Success,Valid,Normal,Purchasers
+S954283,U333488,27-10-2025,Unknown,Desktop,Organic Search,11.9,2,38.80,Success,Valid,Normal,Purchasers
+S603883,U969505,02-10-2025,Non-Prime,Desktop,Organic Search,12.8,1,56.16,Success,Valid,Normal,Purchasers
+S753100,U264896,15-10-2025,Prime,Tablet,Organic Search,23.9,1,31.52,Payment,Valid,Normal,Other
+S577117,U188594,05-10-2025,Non-Prime,Desktop,Direct,4.8,1,18.33,Cart,Valid,Normal,Low-Value Abandoners
+S784006,U722150,12-10-2025,Prime,Mobile App,Organic Search,18.7,2,70.05,Checkout,Valid,Normal,Other
+S750702,U754024,21-10-2025,Non-Prime,Mobile App,Email,4.8,0,0.00,Product Page,Valid,Normal,Browsers
+S878114,U279735,26-10-2025,Non-Prime,Desktop,Unknown,20.6,2,46.70,Payment,Valid,Normal,Other
+S625673,U533336,17-10-2025,Non-Prime,Mobile App,Direct,2.7,0,0.00,Home Page,Valid,Normal,Browsers
+S786190,U852899,25-10-2025,Non-Prime,Mobile App,Direct,3.6,0,0.00,Product Page,Valid,Normal,Browsers
+S686973,U447866,04-10-2025,Prime,Mobile App,Direct,18.4,4,57.80,Success,Valid,Normal,Purchasers
+S620722,U651523,22-10-2025,Non-Prime,Desktop,Organic Search,31.2,1,38.14,Success,Valid,Normal,Purchasers
+S809777,U776864,13-10-2025,Non-Prime,Mobile Web,Paid Search,,2,65.19,Cart,Valid,Normal,Mid-Value Abandoners
+S810453,U513975,27-10-2025,Prime,Desktop,Organic Search,5.2,1,33.57,Cart,Valid,Normal,Low-Value Abandoners
+S774565,U138932,21-10-2025,Non-Prime,Mobile Web,Direct,2.8,3,55.27,Cart,Valid,Normal,Mid-Value Abandoners
+S946317,U312831,06-10-2025,Prime,Mobile Web,Organic Search,6.8,0,0.00,Product Page,Valid,Normal,Browsers
+S541866,U401125,27-10-2025,Non-Prime,Desktop,Affiliate,11.7,3,126.09,Checkout,Valid,Normal,Other
+S789481,U273380,29-10-2025,Non-Prime,Desktop,Direct,6.4,0,0.00,Product Page,Valid,Normal,Browsers
+S522998,U475618,18-10-2025,Prime,Mobile App,Direct,5.6,3,80.09,Cart,Valid,Normal,Mid-Value Abandoners
+S632925,U643597,24-10-2025,Prime,Tablet,Social Media,2.0,0,0.00,Home Page,Valid,Normal,Browsers
+S717616,U618636,26-10-2025,Prime,Desktop,Email,9.1,1,29.81,Success,Valid,Normal,Purchasers
+S732171,U536923,30-10-2025,Non-Prime,Desktop,Organic Search,15.0,1,24.66,Success,Valid,Normal,Purchasers
+S884250,U340052,13-10-2025,prime,Desktop,Direct,9.3,3,72.63,Checkout,Valid,Normal,Other
+S620492,U262721,22-10-2025,Non-Prime,Mobile App,Direct,3.5,0,0.00,Product Page,Valid,Normal,Browsers
+S665471,U525955,07-10-2025,Prime,Mobile App,Social Media,18.6,2,68.10,Checkout,Valid,Normal,Other
+S881429,U804877,04-10-2025,Prime,Desktop,Email,14.0,4,106.38,Checkout,Valid,Normal,Other
+S970858,U751910,15-10-2025,Non-Prime,Mobile App,Direct,5.8,4,176.06,Cart,Valid,Normal,High-Value Abandoners
+S817028,U996678,12-10-2025,Prime,Mobile App,Paid Search,7.4,6,111.60,Checkout,Valid,Normal,Other
+S813911,U312831,26-10-2025,Prime,Mobile App,Email,11.5,2,80.64,Checkout,Valid,Normal,Other
+S788686,U926976,04-10-2025,Prime,Mobile App,Paid Search,9.5,1,61.58,Success,Valid,Normal,Purchasers
+S810042,U789836,31-10-2025,Non-Prime,Mobile Web,Direct,7.4,1,48.00,Cart,Valid,Normal,Low-Value Abandoners
+S609315,U990597,19-10-2025,Non-Prime,Mobile App,Direct,5.4,1,,Cart,Valid,Normal,Low-Value Abandoners
+S804849,U982724,10-10-2025,Prime,Mobile App,Direct,7.9,2,58.79,Cart,Valid,Normal,Mid-Value Abandoners
+S633230,U490753,27-10-2025,Prime,Desktop,Direct,33.1,1,46.42,Success,Valid,Normal,Purchasers
+S804332,U279152,03-10-2025,Non-Prime,Mobile Web,Organic Search,15.8,3,91.54,Success,Valid,Normal,Purchasers
+S953498,U368036,13-10-2025,Prime,Mobile App,Social Media,9.9,2,92.20,Success,Valid,Normal,Purchasers
+S831545,U377580,19-10-2025,Non-Prime,Tablet,Direct,9.7,4,63.32,Checkout,Valid,Normal,Other
+S911911,U992752,25-10-2025,Non-Prime,Mobile App,Paid Search,0.5,0,0.00,Home Page,Valid,Normal,Browsers
+S746659,U120312,14-10-2025,Non-Prime,Mobile Web,Social Media,8.2,3,76.36,Success,Valid,Normal,Purchasers
+S680530,U719659,02-10-2025,Non-Prime,Desktop,Social Media,1.9,0,0.00,Home Page,Valid,Normal,Browsers
+S679805,U312129,24-10-2025,Prime,Mobile Web,Organic Search,5.6,0,0.00,Product Page,Valid,Normal,Browsers
+S641261,U486354,29-10-2025,Non-Prime,Mobile App,Paid Search,7.8,3,70.35,Cart,Valid,Normal,Mid-Value Abandoners
+S563861,U312018,23-10-2025,Prime,Mobile App,Organic Search,2.1,0,0.00,Product Page,Valid,Normal,Browsers
+S958552,U146807,17-10-2025,Prime,Desktop,Organic Search,33.4,2,47.71,Success,Valid,Normal,Purchasers
+S721320,U653896,07-10-2025,Non-Prime,Mobile App,Paid Search,6.5,3,74.05,Cart,Valid,Normal,Mid-Value Abandoners
+S521246,U875142,15-10-2025,Prime,Desktop,Organic Search,5.8,0,0.00,Product Page,Valid,Normal,Browsers
+S934070,U968299,15-10-2025,Prime,Mobile Web,Unknown,11.1,2,120.83,Success,Valid,Normal,Purchasers
+S962757,U861244,11-10-2025,Prime,Tablet,Organic Search,19.1,1,45.01,Checkout,Valid,Normal,Other
+S514721,U468373,27-10-2025,Non-Prime,Mobile Web,Organic Search,9.4,0,0.00,Product Page,Valid,Normal,Browsers
+S971253,U347285,27-10-2025,Prime,Tablet,Organic Search,1.9,0,0.00,Home Page,Valid,Normal,Browsers
+S993373,U951005,12-10-2025,Non-Prime,Mobile App,Direct,10.8,2,81.18,Cart,Valid,Normal,Mid-Value Abandoners
+S672233,U516077,29-10-2025,Prime,Mobile Web,Email,4.4,2,256.41,Cart,Valid,Potential Outlier,High-Value Abandoners
+S996827,U460950,20-10-2025,Prime,Mobile App,Unknown,16.4,1,44.71,Success,Valid,Normal,Purchasers
+S779434,U610165,07-10-2025,Prime,Desktop,Paid Search,3.7,0,0.00,Product Page,Valid,Normal,Browsers
+S668419,U118368,29-10-2025,Prime,Mobile App,Social Media,2.6,0,0.00,Product Page,Valid,Normal,Browsers
+S524193,U952211,31-10-2025,Non-Prime,Tablet,Organic Search,1.4,0,0.00,Home Page,Valid,Normal,Browsers
+S772222,U686506,24-10-2025,Prime,Mobile App,Social Media,13.9,2,73.35,Success,Valid,Normal,Purchasers
+S929693,U948656,22-10-2025,Prime,Mobile App,Social Media,3.5,0,0.00,Product Page,Valid,Normal,Browsers
+S593863,U689335,05-10-2025,Prime,Mobile App,Organic Search,2.6,0,0.00,Product Page,Valid,Normal,Browsers
+S506705,U750660,01-10-2025,Non-Prime,Mobile App,Email,15.2,1,18.27,Success,Valid,Normal,Purchasers
+S852397,U187262,05-10-2025,Non-Prime,Mobile App,Social Media,28.5,2,89.48,Success,Valid,Normal,Purchasers
+S979746,U401125,24-10-2025,Non-Prime,Desktop,Organic Search,24.2,2,61.49,Success,Valid,Normal,Purchasers
+S502014,U819742,06-10-2025,Non-Prime,Desktop,Organic Search,9.9,3,-59.97,Cart,Invalid Cart Value,Normal,Low-Value Abandoners
+S944302,U605304,26-10-2025,Non-Prime,Mobile App,Social Media,1.1,0,0.00,Home Page,Valid,Normal,Browsers
+S643802,U447866,18-10-2025,Prime,Mobile App,Direct,10.8,2,106.30,Success,Valid,Normal,Purchasers
+S766855,U103117,11-10-2025,Prime,Mobile App,Email,8.9,1,17.89,Success,Valid,Normal,Purchasers
+S562638,U771595,06-10-2025,Prime,Desktop,Direct,20.6,2,47.22,Success,Valid,Normal,Purchasers
+S607663,U424487,22-10-2025,Non-Prime,Mobile Web,Unknown,4.4,0,0.00,Product Page,Valid,Normal,Browsers
+S608681,U815036,18-10-2025,Non-Prime,Desktop,Direct,2.1,0,0.00,Product Page,Valid,Normal,Browsers
+S526625,U866909,29-10-2025,Non-Prime,Mobile App,Organic Search,6.1,0,0.00,Product Page,Valid,Normal,Browsers
+S736889,U347285,29-10-2025,Prime,Mobile Web,Direct,6.4,2,117.32,Checkout,Valid,Normal,Other
+S561585,U305987,30-10-2025,Prime,Mobile App,Direct,49.9,2,42.29,Success,Valid,Normal,Purchasers
+S544680,U250162,05-10-2025,Prime,Mobile App,Organic Search,19.9,3,53.08,Success,Valid,Normal,Purchasers
+S594192,U443872,07-10-2025,Prime,Desktop,Social Media,7.0,0,0.00,Product Page,Valid,Normal,Browsers
+S984152,U884058,24-10-2025,Non-Prime,Mobile App,Paid Search,6.8,2,,Cart,Valid,Normal,Low-Value Abandoners
+S598764,U120312,23-10-2025,Non-Prime,Desktop,Social Media,5.2,0,0.00,Product Page,Valid,Normal,Browsers
+S521931,U201966,20-10-2025,Prime,Desktop,Email,9.1,2,38.74,Success,Valid,Normal,Purchasers
+S814070,U193266,08-10-2025,Prime,Mobile Web,Paid Search,4.5,1,27.72,Checkout,Valid,Normal,Other
+S728002,U210135,26-10-2025,Prime,Desktop,Unknown,17.4,1,17.93,Success,Valid,Normal,Purchasers
+S822154,U909584,10-10-2025,Non-Prime,Mobile Web,Paid Search,19.3,3,67.83,Success,Valid,Normal,Purchasers
+S907108,U606303,06-10-2025,Non-Prime,Tablet,Organic Search,9.4,2,38.30,Success,Valid,Normal,Purchasers
+S878131,U316462,22-10-2025,Prime,Desktop,Email,35.9,3,48.34,Success,Valid,Normal,Purchasers
+S760331,U524605,10-10-2025,Prime,Mobile Web,Unknown,4.6,2,49.66,Cart,Valid,Normal,Low-Value Abandoners
+S782723,U714352,04-10-2025,Prime,Mobile Web,Paid Search,14.2,4,85.87,Checkout,Valid,Normal,Other
+S614336,U786157,16-10-2025,Prime,Mobile App,Direct,12.1,3,60.36,Success,Valid,Normal,Purchasers
+S733307,U979911,30-10-2025,Prime,Mobile App,Paid Search,4.6,0,0.00,Product Page,Valid,Normal,Browsers
+S814599,U589643,07-10-2025,Prime,Desktop,Direct,15.3,2,42.54,Success,Valid,Normal,Purchasers
+S955652,U896449,07-10-2025,Prime,Mobile Web,Affiliate,,2,31.78,Success,Valid,Normal,Purchasers
+S860345,U221323,06-10-2025,Prime,Mobile Web,Social Media,4.3,0,0.00,Product Page,Valid,Normal,Browsers
+S664763,U681465,14-10-2025,Prime,Mobile App,Direct,5.9,4,101.93,Cart,Valid,Normal,Mid-Value Abandoners
+S942637,U154294,01-10-2025,Non-Prime,Mobile Web,Direct,1.7,0,0.00,Home Page,Valid,Normal,Browsers
+S747975,U160684,10-10-2025,Prime,Mobile App,Paid Search,11.0,3,49.12,Cart,Valid,Normal,Low-Value Abandoners
+S581068,U312831,07-10-2025,Prime,Desktop,Email,12.7,1,45.82,Success,Valid,Normal,Purchasers
+S791486,U703902,25-10-2025,Non-Prime,Mobile App,Organic Search,13.9,4,25.05,Success,Valid,Normal,Purchasers
+S620477,U943599,24-10-2025,Prime,Unknown,Direct,26.6,3,108.75,Success,Valid,Normal,Purchasers
+S523350,U280084,31-10-2025,Non-Prime,Mobile App,Direct,17.3,4,219.41,Success,Valid,Potential Outlier,Purchasers
+S524749,U349229,11-10-2025,Non-Prime,Mobile Web,Direct,26.8,4,124.10,Success,Valid,Normal,Purchasers
+S938282,U546320,31-10-2025,Non-Prime,Mobile App,Direct,13.8,1,23.98,Success,Valid,Normal,Purchasers
+S672211,U460177,23-10-2025,Prime,Tablet,Direct,3.2,0,0.00,Home Page,Valid,Normal,Browsers
+S574956,U233178,25-10-2025,Non-Prime,Mobile App,Email,3.8,0,0.00,Product Page,Valid,Normal,Browsers
+S697350,U747675,17-10-2025,Prime,Mobile App,Paid Search,15.5,4,98.35,Success,Valid,Normal,Purchasers
+S549353,U509102,03-10-2025,Non-Prime,Mobile Web,Paid Search,10.7,3,59.53,Cart,Valid,Normal,Mid-Value Abandoners
+S695888,U595318,05-10-2025,Non-Prime,Mobile Web,Paid Search,0.7,0,0.00,Home Page,Valid,Normal,Browsers
+S702161,U193266,19-10-2025,Prime,Desktop,Email,22.4,2,48.81,Cart,Valid,Normal,Low-Value Abandoners
+S699864,U405669,18-10-2025,Prime,Desktop,Organic Search,23.2,2,31.55,Success,Valid,Normal,Purchasers
+S646872,U253656,21-10-2025,Prime,Mobile App,Social Media,1.9,0,0.00,Home Page,Valid,Normal,Browsers
+S733886,U709496,19-10-2025,Non-Prime,Tablet,Organic Search,2.1,0,0.00,Product Page,Valid,Normal,Browsers
+S614821,U662866,15-10-2025,Non-Prime,Mobile App,Direct,4.4,0,0.00,Product Page,Valid,Normal,Browsers
+S523323,U914907,14-10-2025,Prime,Mobile App,Organic Search,4.4,0,0.00,Product Page,Valid,Normal,Browsers
+S918711,U169444,14-10-2025,Prime,Mobile App,Paid Search,4.2,2,60.06,Cart,Valid,Normal,Mid-Value Abandoners
+S764274,U846382,03-10-2025,Non-Prime,Mobile App,Unknown,5.2,0,0.00,Product Page,Valid,Normal,Browsers
+S713404,U899757,16-10-2025,Prime,Tablet,Paid Search,2.8,0,0.00,Product Page,Valid,Normal,Browsers
+S961843,U702205,31-10-2025,Non-Prime,Desktop,Organic Search,6.6,0,0.00,Product Page,Valid,Normal,Browsers
+S561448,U450300,22-10-2025,Prime,Desktop,Social Media,20.1,4,276.45,Payment,Valid,Potential Outlier,Other
+S765686,U804877,24-10-2025,Prime,Tablet,Paid Search,28.5,3,39.09,Success,Valid,Normal,Purchasers
+S769349,U866298,10-10-2025,Prime,Mobile Web,Paid Search,8.2,2,78.27,Success,Valid,Normal,Purchasers
+S766655,U279152,19-10-2025,Non-Prime,Mobile Web,Unknown,8.1,0,0.00,Product Page,Valid,Normal,Browsers
+S863737,U848524,02-10-2025,Prime,Mobile App,Organic Search,2.7,0,0.00,Home Page,Valid,Normal,Browsers
+S851182,U390311,08-10-2025,Non-Prime,Mobile Web,Direct,6.3,3,78.47,Cart,Valid,Normal,Mid-Value Abandoners
+S554606,U817048,16-10-2025,Non-Prime,Mobile Web,Affiliate,6.5,3,,Cart,Valid,Normal,Low-Value Abandoners
+S630203,U531905,14-10-2025,Non-Prime,Desktop,Organic Search,6.2,120,,Cart,Valid,Normal,Low-Value Abandoners
+S771493,U663379,22-10-2025,Prime,Mobile Web,Direct,12.0,3,92.72,Cart,Valid,Normal,Mid-Value Abandoners
+S907650,U546320,30-10-2025,Non-Prime,Tablet,Unknown,0.8,0,0.00,Home Page,Valid,Normal,Browsers
+S636604,U219117,01-10-2025,Prime,Tablet,Direct,12.9,3,97.80,Success,Valid,Normal,Purchasers
+S995111,U132584,11-10-2025,Non-Prime,Mobile App,Unknown,14.0,1,19.37,Payment,Valid,Normal,Other
+S542710,U542945,31-10-2025,Prime,Mobile App,Paid Search,20.0,1,32.90,Success,Valid,Normal,Purchasers
+S830041,U204024,01-10-2025,Prime,Mobile App,Organic Search,12.5,2,31.64,Success,Valid,Normal,Purchasers
+S644387,U161339,01-10-2025,Prime,Mobile Web,Organic Search,16.6,2,45.09,Success,Valid,Normal,Purchasers
+S798268,U527783,18-10-2025,Non-Prime,Mobile App,Organic Search,11.0,3,134.49,Success,Valid,Normal,Purchasers
+S629582,U515168,04-10-2025,Prime,Mobile App,Paid Search,4.0,0,0.00,Product Page,Valid,Normal,Browsers
+S988900,U854618,07-10-2025,Prime,Mobile Web,Direct,4.5,0,0.00,Product Page,Valid,Normal,Browsers
+S859703,U741365,02-10-2025,Non-Prime,Desktop,Organic Search,12.2,3,69.14,Success,Valid,Normal,Purchasers
+S744937,U301051,29-10-2025,Non-Prime,Mobile Web,Affiliate,3.8,1,19.03,Cart,Valid,Normal,Low-Value Abandoners
+S918942,U901662,20-10-2025,Prime,Desktop,Social Media,14.0,1,22.77,Success,Valid,Normal,Purchasers
+S860540,U179394,15-10-2025,Prime,Mobile App,Direct,564.0,2,84.84,Success,Valid,Normal,Purchasers
+S793480,U430564,08-10-2025,Prime,Desktop,Paid Search,,6,302.37,Success,Valid,Potential Outlier,Purchasers
+S650907,U443872,01-10-2025,Prime,Desktop,Social Media,13.7,3,157.23,Success,Valid,Normal,Purchasers
+S978251,U814769,08-10-2025,Non-Prime,Mobile App,Social Media,3.2,0,0.00,Home Page,Valid,Normal,Browsers
+S721878,U517921,04-10-2025,Prime,Desktop,Social Media,1.1,0,0.00,Home Page,Valid,Normal,Browsers
+S914115,U533476,17-10-2025,Non-Prime,Mobile App,Social Media,5.7,4,80.44,Cart,Valid,Normal,Mid-Value Abandoners
+S930845,U365642,03-10-2025,Non-Prime,Desktop,Organic Search,1.3,0,0.00,Home Page,Valid,Normal,Browsers
+S950545,U219244,23-10-2025,Prime,Mobile Web,Social Media,9.2,4,95.55,Checkout,Valid,Normal,Other
+S877499,U700390,25-10-2025,Prime,Mobile App,Organic Search,12.6,1,35.57,Success,Valid,Normal,Purchasers
+S584820,U160608,18-10-2025,Prime,Mobile Web,Organic Search,11.7,3,40.13,Success,Valid,Normal,Purchasers
+S639454,U711346,16-10-2025,Prime,Mobile App,Organic Search,13.0,4,145.12,Success,Valid,Normal,Purchasers
+S988318,U753617,05-10-2025,Non-Prime,Mobile App,Affiliate,4.2,0,0.00,Product Page,Valid,Normal,Browsers
+S607383,U715041,24-10-2025,Non-Prime,Desktop,Organic Search,23.1,3,125.42,Success,Valid,Normal,Purchasers
+S921726,U873815,03-10-2025,Prime,Mobile App,Organic Search,,0,0.00,Product Page,Valid,Normal,Browsers
+S743593,U990597,22-10-2025,Non-Prime,Mobile Web,Direct,8.4,4,119.53,Cart,Valid,Normal,Mid-Value Abandoners
+S726019,U376663,10-10-2025,Non-Prime,Desktop,Social Media,4.9,0,0.00,Product Page,Valid,Normal,Browsers
+S654353,U737160,17-10-2025,Prime,Desktop,Unknown,21.0,2,173.37,Success,Valid,Normal,Purchasers
+S918704,U674094,27-10-2025,Non-Prime,Mobile Web,Email,9.5,2,17.98,Success,Valid,Normal,Purchasers
+S537207,U468373,16-10-2025,Non-Prime,Desktop,Email,18.0,1,30.36,Cart,Valid,Normal,Low-Value Abandoners
+S936062,U297260,16-10-2025,prime,Mobile App,Direct,16.0,3,73.35,Success,Valid,Normal,Purchasers
+S738377,U305665,19-10-2025,Non-Prime,Desktop,Organic Search,2.8,0,0.00,Product Page,Valid,Normal,Browsers
+S702997,U210135,24-10-2025,Prime,Mobile Web,Email,8.7,2,77.05,Cart,Valid,Normal,Mid-Value Abandoners
+S721879,U670676,10-10-2025,Prime,Desktop,Direct,3.3,0,0.00,Product Page,Valid,Normal,Browsers
+S521723,U869741,31-10-2025,Non-Prime,Mobile App,Direct,9.4,3,106.29,Checkout,Valid,Normal,Other
+S669005,U823022,02-10-2025,Non-Prime,Mobile App,Affiliate,8.4,4,90.57,Cart,Valid,Normal,Mid-Value Abandoners
+S846171,U642722,20-10-2025,Non-Prime,Mobile Web,Direct,1.8,0,0.00,Home Page,Valid,Normal,Browsers
+S594464,U799983,29-10-2025,Prime,Desktop,Direct,19.2,2,65.41,Success,Valid,Normal,Purchasers
+S619299,U447866,16-10-2025,Prime,Mobile App,Direct,3.2,5,180.92,Cart,Valid,Normal,High-Value Abandoners
+S857508,U328210,08-10-2025,Prime,Desktop,Paid Search,12.9,2,33.80,Success,Valid,Normal,Purchasers
+S580187,U599862,28-10-2025,Prime,Mobile Web,Social Media,14.4,3,70.01,Success,Valid,Normal,Purchasers
+S615740,U565372,14-10-2025,Prime,Tablet,Email,14.1,3,123.13,Success,Valid,Normal,Purchasers
+S861835,U105983,11-10-2025,Prime,Desktop,Paid Search,11.1,1,4.62,Success,Valid,Normal,Purchasers
+S849424,U160684,28-10-2025,Prime,Mobile App,Affiliate,4.1,0,0.00,Product Page,Valid,Normal,Browsers
+S953736,U343180,10-10-2025,Prime,Desktop,Email,3.3,2,30.85,Checkout,Valid,Normal,Other
+S618018,U284999,07-10-2025,Non-Prime,Desktop,Direct,13.9,2,,Success,Valid,Normal,Purchasers
+S719360,U428345,09-10-2025,Prime,Desktop,Social Media,9.2,2,102.53,Success,Valid,Normal,Purchasers
+S582098,U470159,24-10-2025,Non-Prime,Desktop,Organic Search,3.3,0,0.00,Product Page,Valid,Normal,Browsers
+S567164,U201966,21-10-2025,Prime,Desktop,Paid Search,8.4,2,41.86,Success,Valid,Normal,Purchasers
+S862849,U949525,26-10-2025,Non-Prime,Desktop,Unknown,2.1,0,0.00,Home Page,Valid,Normal,Browsers
+S757994,U909584,07-10-2025,Non-Prime,Mobile Web,Organic Search,15.2,3,47.79,Cart,Valid,Normal,Low-Value Abandoners
+S526794,U468373,20-10-2025,Non-Prime,Desktop,Direct,42.5,4,128.64,Success,Valid,Normal,Purchasers
+S546102,U343180,12-10-2025,Prime,Tablet,Paid Search,9.3,0,0.00,Product Page,Valid,Normal,Browsers
+S632455,U335785,25-10-2025,Non-Prime,Mobile App,Paid Search,7.7,0,0.00,Product Page,Valid,Normal,Browsers
+S765262,U533949,07-10-2025,Non-Prime,Desktop,Direct,4.9,0,0.00,Product Page,Valid,Normal,Browsers
+S939044,U892663,24-10-2025,Prime,Desktop,Organic Search,10.3,2,59.61,Success,Valid,Normal,Purchasers
+S773878,U839676,08-10-2025,Unknown,Mobile Web,Direct,10.6,2,61.43,Checkout,Valid,Normal,Other
+S644541,U263691,14-10-2025,Prime,Mobile App,Direct,17.7,3,212.98,Success,Valid,Potential Outlier,Purchasers
+S771808,U351498,01-10-2025,Prime,Mobile Web,Paid Search,11.6,3,107.97,Success,Valid,Normal,Purchasers
+S537952,U563600,17-10-2025,Prime,Mobile App,Direct,5.0,4,82.57,Cart,Valid,Normal,Mid-Value Abandoners
+S950099,U337103,30-10-2025,Prime,Mobile App,Organic Search,0.5,0,0.00,Home Page,Valid,Normal,Browsers
+S512541,U842170,30-10-2025,Non-Prime,Desktop,Organic Search,0.6,0,0.00,Home Page,Valid,Normal,Browsers
+S784215,U513975,08-10-2025,Prime,Mobile Web,Affiliate,15.4,1,30.58,Success,Valid,Normal,Purchasers
+S557417,U626329,17-10-2025,prime,Desktop,Paid Search,19.3,3,58.47,Success,Valid,Normal,Purchasers
+S791515,U419107,31-10-2025,Non-Prime,Desktop,Paid Search,12.1,2,49.44,Success,Valid,Normal,Purchasers
+S707663,U796133,11-10-2025,Prime,Tablet,Organic Search,11.6,2,,Checkout,Valid,Normal,Other
+S667909,U511082,04-10-2025,Prime,Mobile App,Direct,3.5,0,0.00,Product Page,Valid,Normal,Browsers
+S684674,U853646,05-10-2025,Prime,Desktop,Paid Search,8.6,1,38.24,Cart,Valid,Normal,Low-Value Abandoners
+S542779,U873815,28-10-2025,Prime,Mobile Web,Email,2.3,0,0.00,Home Page,Valid,Normal,Browsers
+S967360,U720670,10-10-2025,Non-Prime,Mobile App,Direct,5.5,0,0.00,Product Page,Valid,Normal,Browsers
+S774789,U610690,02-10-2025,Prime,Mobile App,Paid Search,12.8,2,239.18,Success,Valid,Potential Outlier,Purchasers
+S944270,U293440,19-10-2025,Prime,Mobile App,Organic Search,10.4,1,18.13,Cart,Valid,Normal,Low-Value Abandoners
+S785669,U221323,29-10-2025,Prime,Tablet,Direct,11.7,1,,Success,Valid,Normal,Purchasers
+S893833,U184852,15-10-2025,Prime,Mobile Web,Social Media,15.3,2,25.11,Success,Valid,Normal,Purchasers
+S523647,U226208,13-10-2025,Prime,Unknown,Direct,6.3,1,12.26,Cart,Valid,Normal,Low-Value Abandoners
+S991619,U219117,01-10-2025,Prime,Tablet,Direct,8.2,1,41.44,Success,Valid,Normal,Purchasers
+S652127,U574352,07-10-2025,Prime,Desktop,Direct,11.2,3,50.05,Cart,Valid,Normal,Mid-Value Abandoners
+S503326,U417223,12-10-2025,Prime,Mobile App,Direct,15.3,2,135.66,Success,Valid,Normal,Purchasers
+S522929,U932479,14-10-2025,Non-Prime,Mobile Web,Social Media,1.6,0,0.00,Home Page,Valid,Normal,Browsers
+S974129,U266254,06-10-2025,Non-Prime,Desktop,Organic Search,24.5,2,62.10,Success,Valid,Normal,Purchasers
+S904778,U528195,22-10-2025,Prime,Mobile Web,Unknown,5.9,0,0.00,Product Page,Valid,Normal,Browsers
+S862195,U655649,21-10-2025,Prime,Mobile Web,Organic Search,13.1,2,50.20,Success,Valid,Normal,Purchasers
+S560392,U842242,22-10-2025,Prime,Desktop,Organic Search,14.1,2,112.31,Success,Valid,Normal,Purchasers
+S654142,U213089,22-10-2025,Prime,Desktop,Organic Search,17.3,2,30.07,Success,Valid,Normal,Purchasers
+S534876,U453076,19-10-2025,Prime,Desktop,Direct,11.0,3,,Success,Valid,Normal,Purchasers
+S592581,U412633,01-10-2025,Prime,Desktop,Email,14.3,3,68.98,Success,Valid,Normal,Purchasers
+S757495,U947769,09-10-2025,Prime,Mobile App,Organic Search,2.2,0,0.00,Home Page,Valid,Normal,Browsers
+S854371,U219117,14-10-2025,Prime,Mobile App,Email,6.8,0,0.00,Product Page,Valid,Normal,Browsers
+S734303,U126176,30-10-2025,Non-Prime,Desktop,Email,9.7,3,116.64,Checkout,Valid,Normal,Other
+S908016,U960479,03-10-2025,Prime,Mobile App,Paid Search,,1,32.63,Payment,Valid,Normal,Other
+S581364,U928138,14-10-2025,Non-Prime,Desktop,Affiliate,28.5,1,16.69,Cart,Valid,Normal,Low-Value Abandoners
+S925642,U459324,08-10-2025,Prime,Desktop,Social Media,18.7,2,39.85,Payment,Valid,Normal,Other
+S539364,U777595,20-10-2025,Prime,Desktop,Organic Search,21.3,1,26.03,Success,Valid,Normal,Purchasers
+S666193,U354798,04-10-2025,Prime,Mobile App,Organic Search,10.2,1,26.13,Checkout,Valid,Normal,Other
+S544710,U368119,04-10-2025,Non-Prime,Mobile App,Organic Search,32.2,2,89.52,Checkout,Valid,Normal,Other
+S929739,U883331,30-10-2025,Non-Prime,Mobile App,Paid Search,9.0,0,0.00,Product Page,Valid,Normal,Browsers
+S815299,U686506,02-10-2025,Prime,Mobile App,Direct,11.3,3,154.22,Success,Valid,Normal,Purchasers
+S590400,U996864,28-10-2025,Non-Prime,Mobile Web,Organic Search,8.5,0,0.00,Product Page,Valid,Normal,Browsers
+S716043,U951005,28-10-2025,Non-Prime,Mobile App,Email,6.2,1,35.47,Cart,Valid,Normal,Low-Value Abandoners
+S736014,U741470,24-10-2025,Prime,Desktop,Organic Search,15.2,2,48.05,Checkout,Valid,Normal,Other
+S673492,U461488,16-10-2025,Prime,Tablet,Email,3.3,0,0.00,Product Page,Valid,Normal,Browsers
+S601188,U629054,04-10-2025,Prime,Mobile Web,Direct,14.0,2,89.13,Success,Valid,Normal,Purchasers
+S797055,U750660,08-10-2025,Non-Prime,Mobile Web,Organic Search,4.6,0,0.00,Product Page,Valid,Normal,Browsers
+S906204,U631189,22-10-2025,Prime,Mobile App,Direct,,4,193.62,Payment,Valid,Potential Outlier,Other
+S673440,U833774,07-10-2025,Non-Prime,Mobile Web,Direct,29.4,1,14.52,Success,Valid,Normal,Purchasers
+S956045,U716847,09-10-2025,Non-Prime,Mobile Web,Direct,15.8,1,54.99,Success,Valid,Normal,Purchasers
+S971380,U383579,11-10-2025,Prime,Mobile App,Email,18.3,5,266.17,Success,Valid,Potential Outlier,Purchasers
+S547680,U536027,17-10-2025,Non-Prime,Tablet,Organic Search,5.1,0,0.00,Product Page,Valid,Normal,Browsers
+S631709,U129696,18-10-2025,Non-Prime,Mobile Web,Direct,15.3,2,25.60,Success,Valid,Normal,Purchasers
+S687186,U118368,29-10-2025,Prime,Mobile Web,Direct,13.6,4,179.31,Payment,Valid,Normal,Other
+S681990,U531905,25-10-2025,Non-Prime,Desktop,Affiliate,4.6,2,98.48,Cart,Valid,Normal,Mid-Value Abandoners
+S952969,U979911,07-10-2025,Prime,Tablet,Direct,3.4,0,0.00,Product Page,Valid,Normal,Browsers
+S605482,U615901,26-10-2025,Non-Prime,Tablet,Paid Search,18.4,2,23.42,Cart,Valid,Normal,Low-Value Abandoners
+S545261,U589485,10-10-2025,Prime,Mobile App,Unknown,12.8,3,76.06,Checkout,Valid,Normal,Other
+S746794,U924565,14-10-2025,Non-Prime,Mobile App,Organic Search,8.8,1,39.88,Success,Valid,Normal,Purchasers
+S533244,U804475,05-10-2025,Non-Prime,Mobile App,Social Media,16.2,3,123.58,Checkout,Valid,Normal,Other
+S690245,U563191,10-10-2025,Non-Prime,Mobile Web,Direct,12.1,2,185.67,Success,Valid,Potential Outlier,Purchasers
+S887857,U285951,17-10-2025,Prime,Mobile App,Paid Search,4.2,3,49.36,Cart,Valid,Normal,Low-Value Abandoners
+S570577,U803278,01-10-2025,Prime,Desktop,Organic Search,10.4,3,122.43,Success,Valid,Normal,Purchasers
+S627455,U120312,15-10-2025,Non-Prime,Desktop,Affiliate,21.8,3,,Success,Valid,Normal,Purchasers
+S597396,U226208,15-10-2025,Prime,Mobile Web,Paid Search,9.0,2,46.77,Success,Valid,Normal,Purchasers
+S848952,U465963,29-10-2025,Prime,Mobile App,Organic Search,27.2,3,102.55,Success,Valid,Normal,Purchasers
+S837112,U471994,27-10-2025,Prime,Unknown,Affiliate,23.5,2,54.39,Success,Valid,Normal,Purchasers
+S782527,U701344,10-10-2025,Prime,Desktop,Paid Search,5.7,1,26.01,Success,Valid,Normal,Purchasers
+S524216,U522091,03-10-2025,Non-Prime,Desktop,Organic Search,1.8,0,0.00,Product Page,Valid,Normal,Browsers
+S806417,U481197,09-10-2025,Prime,Mobile Web,Affiliate,21.2,1,86.19,Payment,Valid,Normal,Other
+S995952,U796133,04-10-2025,Prime,Mobile App,Email,9.5,2,136.76,Success,Valid,Normal,Purchasers
+S994923,U482123,03-10-2025,Prime,Desktop,Social Media,3.1,0,0.00,Product Page,Valid,Normal,Browsers
+S762288,U285951,13-10-2025,prime,Mobile App,Paid Search,,3,107.27,Success,Valid,Normal,Purchasers
+S727723,U960479,26-10-2025,Prime,Desktop,Organic Search,9.4,3,58.93,Cart,Valid,Normal,Mid-Value Abandoners
+S775671,U700390,26-10-2025,Prime,Desktop,Direct,7.0,2,37.46,Success,Valid,Normal,Purchasers
+S925203,U349924,13-10-2025,Non-Prime,Desktop,Paid Search,2.4,0,0.00,Product Page,Valid,Normal,Browsers
+S573980,U767814,15-10-2025,Prime,Mobile Web,Social Media,4.3,0,0.00,Product Page,Valid,Normal,Browsers
+S659228,U283660,03-10-2025,Prime,Mobile Web,Organic Search,11.1,2,93.25,Success,Valid,Normal,Purchasers
+S794377,U223654,09-10-2025,Prime,Mobile App,Direct,30.3,3,25000.00,Success,Valid,Potential Outlier,Purchasers
+S753264,U192272,03-10-2025,Prime,Desktop,Organic Search,19.2,3,198.80,Success,Valid,Potential Outlier,Purchasers
+S713392,U377647,24-10-2025,Non-Prime,Desktop,Direct,1.7,0,0.00,Product Page,Valid,Normal,Browsers
+S820545,U501962,13-10-2025,Non-Prime,Tablet,Direct,5.9,0,0.00,Product Page,Valid,Normal,Browsers
+S517549,U508553,10-10-2025,Non-Prime,Desktop,Direct,3.7,0,0.00,Product Page,Valid,Normal,Browsers
+S769302,U560041,11-10-2025,Non-Prime,Mobile App,Affiliate,11.3,1,36.92,Success,Valid,Normal,Purchasers
+S899322,U357635,11-10-2025,Non-Prime,Desktop,Direct,9.7,2,134.19,Cart,Valid,Normal,Mid-Value Abandoners
+S699275,U368119,20-10-2025,Non-Prime,Desktop,Direct,1.8,0,0.00,Home Page,Valid,Normal,Browsers
+S948686,U457958,15-10-2025,Prime,Desktop,Organic Search,5.1,4,159.25,Success,Valid,Normal,Purchasers
+S830883,U563981,14-10-2025,Prime,Mobile App,Organic Search,36.9,2,74.07,Success,Valid,Normal,Purchasers
+S903286,U631189,18-10-2025,Prime,Desktop,Paid Search,9.6,3,38.16,Success,Valid,Normal,Purchasers
+S762522,U738856,20-10-2025,Non-Prime,Desktop,Paid Search,2.5,0,0.00,Product Page,Valid,Normal,Browsers
+S900567,U540580,01-10-2025,Prime,Mobile Web,Organic Search,2.8,0,0.00,Home Page,Valid,Normal,Browsers
+S928903,U655649,19-10-2025,Prime,Desktop,Direct,3.3,0,0.00,Product Page,Valid,Normal,Browsers
+S512189,U238357,13-10-2025,Non-Prime,Tablet,Organic Search,12.5,2,58.17,Checkout,Valid,Normal,Other
+S758984,U418825,28-10-2025,Prime,Mobile App,Social Media,5.3,0,0.00,Product Page,Valid,Normal,Browsers
+S551589,U518801,05-10-2025,Non-Prime,Mobile App,Organic Search,20.0,3,-59.97,Cart,Invalid Cart Value,Normal,Low-Value Abandoners
+S709385,U337103,04-10-2025,Prime,Mobile Web,Direct,11.0,2,44.87,Payment,Valid,Normal,Other
+S506394,U691005,20-10-2025,Non-Prime,Mobile App,Organic Search,,2,83.78,Checkout,Valid,Normal,Other
+S804270,U470159,26-10-2025,Non-Prime,Mobile App,Direct,10.8,4,70.96,Success,Valid,Normal,Purchasers
+S820556,U584545,03-10-2025,Prime,Unknown,Direct,,1,12.97,Success,Valid,Normal,Purchasers
+S939569,U366437,25-10-2025,Unknown,Mobile App,Email,4.2,0,0.00,Product Page,Valid,Normal,Browsers
+S564500,U741190,22-10-2025,Non-Prime,Mobile Web,Email,5.1,0,0.00,Product Page,Valid,Normal,Browsers
+S613650,U354959,09-10-2025,Non-Prime,Mobile App,Direct,11.0,2,49.04,Checkout,Valid,Normal,Other
+S985412,U663379,16-10-2025,Prime,Mobile Web,Organic Search,17.9,2,83.68,Success,Valid,Normal,Purchasers
+S530197,U537773,28-10-2025,Prime,Tablet,Unknown,18.3,4,242.15,Success,Valid,Potential Outlier,Purchasers
+S842620,U678650,22-10-2025,Non-Prime,Mobile Web,Organic Search,10.2,2,31.55,Cart,Valid,Normal,Low-Value Abandoners
+S526760,U253420,02-10-2025,Non-Prime,Tablet,Direct,5.3,0,0.00,Product Page,Valid,Normal,Browsers
+S692842,U158712,16-10-2025,Unknown,Mobile Web,Affiliate,13.7,4,157.75,Checkout,Valid,Normal,Other
+S903385,U747668,15-10-2025,Prime,Mobile App,Paid Search,30.0,2,53.77,Success,Valid,Normal,Purchasers
+S653888,U977495,15-10-2025,Non-Prime,Desktop,Organic Search,10.8,1,14.59,Payment,Valid,Normal,Other
+S955909,U358910,22-10-2025,prime,Tablet,Organic Search,3.6,0,0.00,Product Page,Valid,Normal,Browsers
+S569883,U279152,26-10-2025,Non-Prime,Desktop,Direct,8.2,3,43.12,Cart,Valid,Normal,Low-Value Abandoners
+S643467,U430420,04-10-2025,Prime,Mobile Web,Paid Search,11.6,3,162.63,Cart,Valid,Normal,High-Value Abandoners
+S941594,U328634,18-10-2025,Prime,Mobile Web,Organic Search,8.1,2,84.48,Checkout,Valid,Normal,Other
+S577271,U614290,12-10-2025,Non-Prime,Tablet,Email,2.4,0,0.00,Home Page,Valid,Normal,Browsers
+S936918,U593418,26-10-2025,Prime,Tablet,Direct,17.1,0,0.00,Product Page,Valid,Normal,Browsers
+S977717,U536923,20-10-2025,Non-Prime,Desktop,Paid Search,9.4,1,49.47,Success,Valid,Normal,Purchasers
+S998594,U167019,30-10-2025,Non-Prime,Tablet,Organic Search,8.9,3,99.08,Cart,Valid,Normal,Mid-Value Abandoners
+S720887,U542945,26-10-2025,Prime,Desktop,Email,9.8,3,82.70,Success,Valid,Normal,Purchasers
+S800841,U104687,31-10-2025,Prime,Tablet,Paid Search,24.8,2,75.48,Success,Valid,Normal,Purchasers
+S591375,U666702,18-10-2025,Prime,Mobile Web,Organic Search,11.0,5,169.82,Checkout,Valid,Normal,Other
+S670621,U340233,22-10-2025,Prime,Desktop,Paid Search,18.4,3,,Success,Valid,Normal,Purchasers
+S775130,U663379,23-10-2025,Prime,Mobile Web,Organic Search,6.7,4,36.21,Success,Valid,Normal,Purchasers
+S988385,U433753,22-10-2025,Prime,Mobile Web,Unknown,0.7,0,0.00,Home Page,Valid,Normal,Browsers
+S838627,U293440,29-10-2025,Prime,Tablet,Organic Search,22.3,2,24.60,Success,Valid,Normal,Purchasers
+S688661,U160608,09-10-2025,Prime,Mobile App,Social Media,2.2,0,0.00,Product Page,Valid,Normal,Browsers
+S553111,U419107,23-10-2025,Non-Prime,Desktop,Social Media,20.1,1,,Success,Valid,Normal,Purchasers
+S685339,U343180,25-10-2025,Prime,Tablet,Organic Search,6.5,2,92.59,Payment,Valid,Normal,Other
+S776257,U522091,20-10-2025,Non-Prime,Desktop,Organic Search,6.4,3,-59.97,Cart,Invalid Cart Value,Normal,Low-Value Abandoners
+S782528,U848524,23-10-2025,Prime,Desktop,Direct,13.7,2,87.37,Success,Valid,Normal,Purchasers
+S936084,U357030,26-10-2025,Non-Prime,Mobile App,Organic Search,14.2,3,81.79,Cart,Valid,Normal,Mid-Value Abandoners
+S671693,U414540,13-10-2025,Non-Prime,Mobile App,Paid Search,9.3,2,41.05,Cart,Valid,Normal,Low-Value Abandoners
+S796245,U972140,24-10-2025,Prime,Mobile App,Organic Search,6.0,0,0.00,Product Page,Valid,Normal,Browsers
+S927063,U720670,09-10-2025,Non-Prime,Mobile App,Paid Search,16.2,4,116.88,Success,Valid,Normal,Purchasers
+S711065,U804151,11-10-2025,Non-Prime,Mobile App,Paid Search,6.6,0,0.00,Product Page,Valid,Normal,Browsers
+S522216,U667790,19-10-2025,Non-Prime,Tablet,Direct,15.7,2,29.72,Checkout,Valid,Normal,Other
+S798883,U269190,05-10-2025,Non-Prime,Mobile App,Social Media,6.9,3,36.60,Success,Valid,Normal,Purchasers
+S650584,U322619,27-10-2025,Prime,Mobile Web,Organic Search,,2,57.09,Success,Valid,Normal,Purchasers
+S823701,U815338,15-10-2025,Non-Prime,Mobile Web,Affiliate,1.9,0,0.00,Product Page,Valid,Normal,Browsers
+S800309,U136905,31-10-2025,Prime,Desktop,Social Media,23.7,2,44.13,Success,Valid,Normal,Purchasers
+S914977,U514014,30-10-2025,Prime,Mobile App,Organic Search,6.6,2,100.57,Cart,Valid,Normal,Mid-Value Abandoners
+S612805,U312129,03-10-2025,Prime,Mobile Web,Paid Search,1.7,0,0.00,Home Page,Valid,Normal,Browsers
+S619831,U102688,18-10-2025,Non-Prime,Mobile App,Organic Search,20.9,1,44.08,Success,Valid,Normal,Purchasers
+S909479,U896449,18-10-2025,Prime,Mobile App,Email,1.0,0,0.00,Home Page,Valid,Normal,Browsers
+S937637,U321113,18-10-2025,Prime,Mobile Web,Organic Search,7.9,0,0.00,Product Page,Valid,Normal,Browsers
+S938629,U286731,26-10-2025,Prime,Mobile App,Email,5.0,1,17.86,Success,Valid,Normal,Purchasers
+S851393,U866241,20-10-2025,Prime,Desktop,Paid Search,1.2,0,0.00,Home Page,Valid,Normal,Browsers
+S664078,U699170,18-10-2025,Prime,Mobile Web,Email,3.7,2,34.30,Cart,Valid,Normal,Low-Value Abandoners
+S676547,U202233,13-10-2025,Prime,Desktop,Organic Search,16.7,3,229.71,Payment,Valid,Potential Outlier,Other
+S696165,U272345,01-10-2025,Non-Prime,Desktop,Organic Search,2.0,0,0.00,Home Page,Valid,Normal,Browsers
+S877621,U881441,21-10-2025,Non-Prime,Desktop,Organic Search,6.0,0,0.00,Product Page,Valid,Normal,Browsers
+S676780,U283660,30-10-2025,Prime,Desktop,Organic Search,2.4,0,0.00,Product Page,Valid,Normal,Browsers
+S813424,U843808,11-10-2025,Prime,Desktop,Direct,11.2,3,85.34,Success,Valid,Normal,Purchasers
+S622900,U542071,29-10-2025,Non-Prime,Desktop,Email,15.3,3,29.80,Success,Valid,Normal,Purchasers
+S576700,U151937,30-10-2025,Non-Prime,Mobile App,Organic Search,11.0,1,,Checkout,Valid,Normal,Other
+S677639,U908937,07-10-2025,Prime,Mobile App,Email,5.4,0,0.00,Product Page,Valid,Normal,Browsers
+S736576,U534672,27-10-2025,Non-Prime,Mobile App,Direct,12.9,2,81.68,Checkout,Valid,Normal,Other
+S743509,U450300,02-10-2025,Prime,Mobile Web,Direct,16.6,2,63.67,Checkout,Valid,Normal,Other
+S922824,U694908,26-10-2025,Non-Prime,Mobile App,Paid Search,10.1,1,31.44,Success,Valid,Normal,Purchasers
+S729112,U770703,13-10-2025,Non-Prime,Mobile App,Direct,2.4,0,0.00,Home Page,Valid,Normal,Browsers
+S841284,U722900,13-10-2025,Non-Prime,Desktop,Direct,9.9,1,18.87,Success,Valid,Normal,Purchasers
+S995130,U382091,30-10-2025,Prime,Desktop,Unknown,12.8,3,35.98,Cart,Valid,Normal,Low-Value Abandoners
+S857783,U975970,03-10-2025,Non-Prime,Mobile Web,Unknown,4.4,1,9999.99,Cart,Valid,Potential Outlier,High-Value Abandoners
+S952835,U169229,08-10-2025,Non-Prime,Tablet,Direct,2.3,0,0.00,Home Page,Valid,Normal,Browsers
+S627449,U852899,25-10-2025,Non-Prime,Mobile App,Organic Search,19.9,3,54.33,Checkout,Valid,Normal,Other
+S935315,U212471,16-10-2025,Non-Prime,Unknown,Direct,7.9,1,32.76,Cart,Valid,Normal,Low-Value Abandoners
+S867366,U711346,16-10-2025,Prime,Desktop,Direct,2.5,0,0.00,Product Page,Valid,Normal,Browsers
+S615197,U720670,27-10-2025,Non-Prime,Mobile App,Email,9.3,4,82.25,Cart,Valid,Normal,Mid-Value Abandoners
+S707628,U925082,04-10-2025,Prime,Mobile App,Organic Search,0.6,0,0.00,Home Page,Valid,Normal,Browsers
+S516741,U971275,09-10-2025,Non-Prime,Mobile Web,Affiliate,16.9,2,40.74,Payment,Valid,Normal,Other
+S518478,U219244,06-10-2025,Prime,Unknown,Direct,23.5,2,24.91,Success,Valid,Normal,Purchasers
+S905247,U692798,28-10-2025,Prime,Desktop,Direct,17.6,2,44.29,Success,Valid,Normal,Purchasers
+S978430,U443872,12-10-2025,Prime,Desktop,Direct,18.8,2,116.20,Checkout,Valid,Normal,Other
+S504616,U898624,09-10-2025,Prime,Mobile App,Organic Search,3.9,3,36.23,Cart,Valid,Normal,Low-Value Abandoners
+S991217,U629089,28-10-2025,Prime,Desktop,Organic Search,5.1,2,60.91,Success,Valid,Normal,Purchasers
+S901995,U270532,12-10-2025,Non-Prime,Mobile App,Social Media,12.4,2,28.10,Success,Valid,Normal,Purchasers
+S800949,U753379,23-10-2025,Prime,Tablet,Direct,11.6,5,98.23,Checkout,Valid,Normal,Other
+S536818,U722442,01-10-2025,Prime,Mobile App,Organic Search,2.6,0,0.00,Product Page,Valid,Normal,Browsers
+S733167,U899757,10-10-2025,Prime,Unknown,Unknown,23.8,1,54.54,Cart,Valid,Normal,Mid-Value Abandoners
+S771564,U817048,17-10-2025,Non-Prime,Mobile App,Email,2.5,0,0.00,Product Page,Valid,Normal,Browsers
+S937899,U842942,31-10-2025,Prime,Desktop,Direct,3.9,0,0.00,Product Page,Valid,Normal,Browsers
+S799124,U285951,07-10-2025,Prime,Mobile Web,Social Media,19.2,3,95.95,Success,Valid,Normal,Purchasers
+S551384,U118368,08-10-2025,Prime,Mobile App,Organic Search,22.5,2,36.14,Success,Valid,Normal,Purchasers
+S984391,U343180,24-10-2025,Prime,Desktop,Organic Search,4.3,4,78.03,Checkout,Valid,Normal,Other
+S795368,U175853,26-10-2025,Non-Prime,Mobile App,Direct,11.6,2,77.52,Cart,Valid,Normal,Mid-Value Abandoners
+S758292,U190064,07-10-2025,Prime,Mobile App,Affiliate,10.5,1,82.96,Checkout,Valid,Normal,Other
+S946223,U774894,11-10-2025,Non-Prime,Desktop,Email,11.4,1,21.95,Cart,Valid,Normal,Low-Value Abandoners
+S511559,U160684,29-10-2025,Prime,Desktop,Social Media,17.4,1,32.46,Success,Valid,Normal,Purchasers
+S637059,U803278,29-10-2025,Prime,Mobile App,Direct,13.2,2,97.53,Checkout,Valid,Normal,Other
+S593323,U258871,12-10-2025,Prime,Mobile Web,Email,16.9,3,113.17,Success,Valid,Normal,Purchasers
+S706396,U866241,09-10-2025,Prime,Tablet,Organic Search,9.7,0,0.00,Product Page,Valid,Normal,Browsers
+S561097,U132584,06-10-2025,Non-Prime,Mobile Web,Direct,14.4,2,95.05,Checkout,Valid,Normal,Other
+S633625,U843808,06-10-2025,Prime,Tablet,Direct,1.9,0,0.00,Home Page,Valid,Normal,Browsers
+S680286,U544071,08-10-2025,Prime,Desktop,Email,7.3,1,67.24,Checkout,Valid,Normal,Other
+S699412,U514014,26-10-2025,Prime,Mobile App,Social Media,13.6,1,37.14,Success,Valid,Normal,Purchasers
+S520366,U417223,27-10-2025,Prime,Desktop,Organic Search,2.2,0,0.00,Home Page,Valid,Normal,Browsers
+S900951,U284999,10-10-2025,Non-Prime,Desktop,Organic Search,7.9,1,20.23,Success,Valid,Normal,Purchasers
+S831483,U106903,11-10-2025,Prime,Desktop,Social Media,363.0,2,61.40,Cart,Valid,Normal,Mid-Value Abandoners
+S669151,U354263,01-10-2025,Non-Prime,Mobile App,Direct,,1,23.31,Cart,Valid,Normal,Low-Value Abandoners
+S670821,U385473,09-10-2025,Non-Prime,Mobile Web,Email,6.7,0,0.00,Product Page,Valid,Normal,Browsers
+S530576,U988450,06-10-2025,Non-Prime,Mobile App,Paid Search,2.1,0,0.00,Product Page,Valid,Normal,Browsers
+S693807,U968299,11-10-2025,Prime,Mobile App,Direct,7.4,2,96.59,Cart,Valid,Normal,Mid-Value Abandoners
+S736191,U469243,31-10-2025,Non-Prime,Mobile Web,Direct,11.1,5,141.82,Cart,Valid,Normal,Mid-Value Abandoners
+S870271,U125115,06-10-2025,Non-Prime,Mobile App,Paid Search,9.6,1,54.01,Cart,Valid,Normal,Mid-Value Abandoners
+S953148,U984520,17-10-2025,Non-Prime,Desktop,Email,32.6,3,95.54,Success,Valid,Normal,Purchasers
+S918821,U250522,29-10-2025,Non-Prime,Desktop,Organic Search,7.7,1,29.83,Cart,Valid,Normal,Low-Value Abandoners
+S951782,U382091,17-10-2025,Prime,Mobile App,Social Media,13.5,2,41.56,Success,Valid,Normal,Purchasers
+S676922,U461885,29-10-2025,Non-Prime,Mobile App,Paid Search,10.8,2,42.51,Checkout,Valid,Normal,Other
+S797594,U279735,13-10-2025,Non-Prime,Desktop,Email,,5,180.79,Checkout,Valid,Normal,Other
+S631934,U542909,18-10-2025,Prime,Desktop,Paid Search,14.9,2,91.53,Payment,Valid,Normal,Other
+S649472,U267273,07-10-2025,Prime,Mobile App,Direct,17.6,2,17.87,Success,Valid,Normal,Purchasers
+S852491,U161339,05-10-2025,Prime,Mobile App,Paid Search,19.9,3,91.62,Success,Valid,Normal,Purchasers
+S889989,U432997,03-10-2025,Prime,Mobile App,Paid Search,21.5,1,10.99,Success,Valid,Normal,Purchasers
+S500567,U161339,09-10-2025,Prime,Mobile App,Affiliate,,0,0.00,Product Page,Valid,Normal,Browsers
+S870938,U990597,27-10-2025,Non-Prime,Mobile Web,Email,7.2,3,51.94,Success,Valid,Normal,Purchasers
+S779547,U294852,20-10-2025,Non-Prime,Mobile Web,Organic Search,9.2,0,0.00,Product Page,Valid,Normal,Browsers
+S954281,U449263,07-10-2025,Non-Prime,Mobile App,Social Media,5.2,0,0.00,Product Page,Valid,Normal,Browsers
+S939610,U703902,30-10-2025,Non-Prime,Mobile Web,Direct,4.0,3,51.62,Cart,Valid,Normal,Mid-Value Abandoners
+S967469,U967006,16-10-2025,Prime,Desktop,Email,9.5,2,29.51,Cart,Valid,Normal,Low-Value Abandoners
+S701817,U416255,08-10-2025,Prime,Mobile App,Direct,28.9,1,20.19,Success,Valid,Normal,Purchasers
+S757510,U967006,03-10-2025,Prime,Tablet,Direct,,3,153.27,Cart,Valid,Normal,High-Value Abandoners
+S512009,U988450,15-10-2025,Non-Prime,Desktop,Email,3.0,0,0.00,Product Page,Valid,Normal,Browsers
+S754067,U565500,19-10-2025,Prime,Tablet,Direct,7.3,1,61.37,Cart,Valid,Normal,Mid-Value Abandoners
+S555215,U643446,29-10-2025,Prime,Tablet,Direct,4.7,3,116.46,Success,Valid,Normal,Purchasers
+S819660,U508553,29-10-2025,Non-Prime,Mobile Web,Organic Search,21.5,2,49.43,Cart,Valid,Normal,Low-Value Abandoners
+S839642,U926232,17-10-2025,Non-Prime,Mobile Web,Organic Search,7.4,3,60.43,Cart,Valid,Normal,Mid-Value Abandoners
+S662941,U911979,11-10-2025,Non-Prime,Mobile Web,Organic Search,4.8,2,54.72,Checkout,Valid,Normal,Other
+S504693,U238357,02-10-2025,Non-Prime,Mobile Web,Direct,3.3,0,0.00,Product Page,Valid,Normal,Browsers
+S900859,U260925,18-10-2025,Prime,Mobile App,Direct,9.1,3,203.01,Cart,Valid,Potential Outlier,High-Value Abandoners
+S884985,U593158,15-10-2025,Prime,Mobile App,Email,7.6,1,149.64,Cart,Valid,Normal,Mid-Value Abandoners
+S982579,U198504,05-10-2025,Prime,Desktop,Paid Search,25.3,3,62.14,Checkout,Valid,Normal,Other
+S814484,U260925,21-10-2025,Prime,Mobile App,Organic Search,15.7,3,221.47,Success,Valid,Potential Outlier,Purchasers
+S516645,U887214,27-10-2025,Non-Prime,Mobile Web,Direct,16.7,2,20.79,Checkout,Valid,Normal,Other
+S522695,U542552,18-10-2025,Prime,Mobile Web,Email,,1,25.39,Success,Valid,Normal,Purchasers
+S528736,U338733,18-10-2025,Prime,Desktop,Paid Search,5.4,6,172.02,Cart,Valid,Normal,High-Value Abandoners
+S996285,U827393,13-10-2025,Prime,Mobile App,Direct,52.8,4,237.12,Success,Valid,Potential Outlier,Purchasers
+S535243,U149291,02-10-2025,Prime,Mobile Web,Direct,3.8,2,50.84,Cart,Valid,Normal,Mid-Value Abandoners
+S556988,U178772,28-10-2025,Non-Prime,Tablet,Email,5.3,4,149.27,Payment,Valid,Normal,Other
+S967949,U295879,15-10-2025,Non-Prime,Mobile Web,Paid Search,2.3,0,0.00,Home Page,Valid,Normal,Browsers
+S694990,U290302,29-10-2025,Prime,Desktop,Direct,7.5,2,36.78,Checkout,Valid,Normal,Other
+S707199,U517921,14-10-2025,Prime,Mobile Web,Direct,7.4,3,40.59,Cart,Valid,Normal,Low-Value Abandoners
+S729587,U971326,09-10-2025,Non-Prime,Desktop,Organic Search,14.9,2,29.26,Cart,Valid,Normal,Low-Value Abandoners
+S628128,U615901,03-10-2025,Non-Prime,Mobile Web,Direct,25.6,2,89.11,Success,Valid,Normal,Purchasers
+S894426,U737160,08-10-2025,Prime,Mobile App,Email,10.7,2,49.87,Success,Valid,Normal,Purchasers
+S755344,U175853,24-10-2025,Non-Prime,Mobile Web,Direct,29.6,2,,Success,Valid,Normal,Purchasers
+S575096,U430564,06-10-2025,Prime,Mobile Web,Direct,11.3,1,11.50,Success,Valid,Normal,Purchasers
+S614041,U396951,21-10-2025,Non-Prime,Mobile App,Email,8.2,1,15.72,Payment,Valid,Normal,Other
+S775946,U178772,23-10-2025,Non-Prime,Desktop,Email,4.9,4,64.62,Checkout,Valid,Normal,Other
+S616699,U136905,04-10-2025,Prime,Mobile App,Unknown,,0,0.00,Product Page,Valid,Normal,Browsers
+S953276,U359281,27-10-2025,Non-Prime,Mobile Web,Email,10.1,4,43.91,Cart,Valid,Normal,Low-Value Abandoners
+S622284,U270118,10-10-2025,Non-Prime,Mobile App,Organic Search,3.0,0,0.00,Product Page,Valid,Normal,Browsers
+S751219,U243445,09-10-2025,Non-Prime,Mobile App,Paid Search,6.1,2,58.18,Cart,Valid,Normal,Mid-Value Abandoners
+S755121,U221323,27-10-2025,Prime,Desktop,Affiliate,15.6,4,81.86,Payment,Valid,Normal,Other
+S667362,U368036,26-10-2025,Prime,Desktop,Paid Search,0.7,0,0.00,Home Page,Valid,Normal,Browsers
+S552938,U884058,29-10-2025,Non-Prime,Desktop,Social Media,603.0,0,0.00,Product Page,Valid,Normal,Browsers
+S643624,U226208,08-10-2025,Prime,Mobile Web,Affiliate,8.7,2,20.81,Checkout,Valid,Normal,Other
+S565079,U328210,18-10-2025,Prime,Desktop,Direct,22.0,5,145.42,Success,Valid,Normal,Purchasers
+S538154,U138494,11-10-2025,Non-Prime,Desktop,Direct,8.8,3,184.48,Cart,Valid,Normal,High-Value Abandoners
+S850946,U221323,02-10-2025,Prime,Mobile Web,Organic Search,0.8,0,0.00,Home Page,Valid,Normal,Browsers
+S736135,U138187,19-10-2025,Non-Prime,Desktop,Social Media,17.4,3,102.87,Payment,Valid,Normal,Other
+S954196,U128438,23-10-2025,Prime,Desktop,Paid Search,23.8,2,54.85,Checkout,Valid,Normal,Other
+S644520,U901108,08-10-2025,Prime,Desktop,Direct,42.5,1,14.51,Success,Valid,Normal,Purchasers
+S622082,U291298,04-10-2025,Prime,Desktop,Direct,17.6,2,202.25,Checkout,Valid,Potential Outlier,Other
+S953891,U516533,26-10-2025,Unknown,Mobile Web,Social Media,1.8,0,0.00,Home Page,Valid,Normal,Browsers
+S944426,U681038,30-10-2025,Non-Prime,Desktop,Direct,3.0,0,0.00,Product Page,Valid,Normal,Browsers
+S825508,U390311,10-10-2025,Non-Prime,Mobile Web,Paid Search,,1,18.34,Success,Valid,Normal,Purchasers
+S830530,U501962,26-10-2025,Non-Prime,Desktop,Paid Search,3.8,0,0.00,Home Page,Valid,Normal,Browsers
+S989303,U221323,19-10-2025,Prime,Mobile App,Organic Search,5.7,0,0.00,Product Page,Valid,Normal,Browsers
+S990520,U376663,17-10-2025,Non-Prime,Mobile Web,Organic Search,12.3,2,52.66,Payment,Valid,Normal,Other
+S607185,U517921,30-10-2025,Prime,Mobile App,Email,7.7,0,0.00,Product Page,Valid,Normal,Browsers
+S648066,U992571,11-10-2025,Non-Prime,Mobile App,Direct,2.2,0,0.00,Product Page,Valid,Normal,Browsers
+S539010,U744575,02-10-2025,Prime,Mobile App,Social Media,9.7,2,137.06,Checkout,Valid,Normal,Other
+S995671,U536923,18-10-2025,Non-Prime,Desktop,Paid Search,10.7,1,21.19,Cart,Valid,Normal,Low-Value Abandoners
+S565509,U112672,02-10-2025,Prime,Mobile Web,Social Media,2.0,0,0.00,Home Page,Valid,Normal,Browsers
+S602523,U470159,08-10-2025,Non-Prime,Mobile App,Direct,8.4,2,95.84,Cart,Valid,Normal,Mid-Value Abandoners
+S906352,U293440,20-10-2025,Prime,Mobile App,Paid Search,8.0,2,141.17,Checkout,Valid,Normal,Other
+S506332,U753617,20-10-2025,non-prime,Mobile App,Organic Search,28.3,4,96.44,Success,Valid,Normal,Purchasers
+S574122,U555556,10-10-2025,Prime,Desktop,Email,2.3,0,0.00,Product Page,Valid,Normal,Browsers
+S625299,U262721,21-10-2025,Non-Prime,Desktop,Direct,9.2,2,23.98,Checkout,Valid,Normal,Other
+S501337,U470159,12-10-2025,Non-Prime,Desktop,Organic Search,5.8,0,0.00,Product Page,Valid,Normal,Browsers
+S929522,U666702,25-10-2025,Prime,Mobile App,Email,2.5,0,0.00,Product Page,Valid,Normal,Browsers
+S621241,U126577,30-10-2025,Non-Prime,Mobile App,Direct,7.9,2,65.15,Checkout,Valid,Normal,Other
+S760649,U533322,13-10-2025,Prime,Mobile App,Social Media,4.1,3,141.87,Success,Valid,Normal,Purchasers
+S748524,U951005,06-10-2025,Non-Prime,Desktop,Organic Search,7.7,4,191.24,Payment,Valid,Potential Outlier,Other
+S820923,U689997,24-10-2025,Non-Prime,Desktop,Email,0.8,0,0.00,Home Page,Valid,Normal,Browsers
+S674370,U349229,09-10-2025,Non-Prime,Mobile App,Email,20.8,3,30.79,Success,Valid,Normal,Purchasers
+S778461,U887214,19-10-2025,Non-Prime,Mobile App,Organic Search,,1,23.67,Payment,Valid,Normal,Other
+S958903,U578677,23-10-2025,Non-Prime,Desktop,Paid Search,11.7,1,14.99,Success,Valid,Normal,Purchasers
+S740280,U432136,15-10-2025,Prime,Mobile Web,Affiliate,6.3,0,0.00,Product Page,Valid,Normal,Browsers
+S969492,U565500,20-10-2025,Prime,Mobile Web,Email,14.3,2,72.47,Payment,Valid,Normal,Other
+S881526,U786157,11-10-2025,Prime,Tablet,Unknown,11.6,3,125.76,Success,Valid,Normal,Purchasers
+S762697,U106903,22-10-2025,Prime,Mobile Web,Direct,8.3,4,46.01,Cart,Valid,Normal,Low-Value Abandoners
+S877879,U966703,09-10-2025,Non-Prime,Mobile App,Organic Search,12.3,1,16.66,Cart,Valid,Normal,Low-Value Abandoners
+S809833,U995893,05-10-2025,Prime,Desktop,Affiliate,7.5,2,52.21,Success,Valid,Normal,Purchasers
+S572349,U157883,28-10-2025,Prime,Desktop,Organic Search,21.4,5,159.57,Success,Valid,Normal,Purchasers
+S723465,U565500,01-10-2025,Prime,Desktop,Direct,6.1,2,78.33,Cart,Valid,Normal,Mid-Value Abandoners
+S572306,U223654,25-10-2025,Prime,Desktop,Organic Search,36.0,1,29.35,Success,Valid,Normal,Purchasers
+S890863,U196531,07-10-2025,Prime,Mobile App,Direct,2.6,0,0.00,Product Page,Valid,Normal,Browsers
+S742244,U349075,07-10-2025,Prime,Mobile Web,Direct,17.9,2,77.03,Success,Valid,Normal,Purchasers
+S611407,U335785,01-10-2025,Non-Prime,Desktop,Paid Search,13.8,4,150.58,Checkout,Valid,Normal,Other
+S714665,U387806,27-10-2025,Prime,Mobile Web,Paid Search,4.8,2,60.79,Cart,Valid,Normal,Mid-Value Abandoners
+S552808,U971326,29-10-2025,Non-Prime,Mobile App,Direct,1.7,0,0.00,Home Page,Valid,Normal,Browsers
+S590188,U522091,08-10-2025,Non-Prime,Mobile App,Paid Search,9.4,3,,Cart,Valid,Normal,Low-Value Abandoners
+S504498,U688820,23-10-2025,Non-Prime,Mobile Web,Organic Search,10.1,0,0.00,Product Page,Valid,Normal,Browsers
+S778286,U325889,09-10-2025,Prime,Tablet,Direct,4.6,0,0.00,Product Page,Valid,Normal,Browsers
+S577435,U476785,27-10-2025,Prime,Mobile App,Social Media,12.7,1,26.13,Success,Valid,Normal,Purchasers
+S985250,U899683,17-10-2025,Prime,Mobile Web,Email,11.1,3,,Cart,Valid,Normal,Low-Value Abandoners
+S563061,U666702,08-10-2025,Prime,Mobile Web,Organic Search,10.0,2,81.04,Payment,Valid,Normal,Other
+S794828,U229214,26-10-2025,Non-Prime,Mobile Web,Affiliate,4.4,0,0.00,Product Page,Valid,Normal,Browsers
+S969996,U722442,20-10-2025,Unknown,Tablet,Direct,14.1,2,158.78,Success,Valid,Normal,Purchasers
+S664546,U470800,17-10-2025,Prime,Mobile Web,Organic Search,16.2,1,25.59,Checkout,Valid,Normal,Other
+S542110,U661415,25-10-2025,Prime,Mobile App,Direct,11.4,3,43.94,Success,Valid,Normal,Purchasers
+S761684,U643446,02-10-2025,Prime,Tablet,Organic Search,9.7,1,37.29,Cart,Valid,Normal,Low-Value Abandoners
+S785605,U663379,31-10-2025,Prime,Mobile App,Social Media,3.2,0,0.00,Product Page,Valid,Normal,Browsers
+S958577,U953000,07-10-2025,Non-Prime,Mobile App,Paid Search,11.3,4,36.89,Checkout,Valid,Normal,Other
+S962813,U516533,09-10-2025,Prime,Desktop,Email,17.6,1,46.41,Success,Valid,Normal,Purchasers
+S902517,U504691,10-10-2025,Non-Prime,Mobile Web,Unknown,16.3,3,134.98,Success,Valid,Normal,Purchasers
+S848744,U593418,14-10-2025,Prime,Desktop,Email,15.0,3,42.55,Success,Valid,Normal,Purchasers
+S703076,U971275,24-10-2025,Non-Prime,Mobile Web,Direct,1.1,0,0.00,Home Page,Valid,Normal,Browsers
+S766050,U415726,31-10-2025,Non-Prime,Mobile App,Organic Search,0.4,0,0.00,Home Page,Valid,Normal,Browsers
+S911080,U146602,04-10-2025,Non-Prime,Tablet,Affiliate,15.7,1,60.06,Checkout,Valid,Normal,Other
+S681398,U977495,03-10-2025,Non-Prime,Mobile Web,Direct,4.8,0,0.00,Product Page,Valid,Normal,Browsers
+S651213,U688016,30-10-2025,Non-Prime,Desktop,Affiliate,,2,106.15,Success,Valid,Normal,Purchasers
+S873882,U509102,11-10-2025,Non-Prime,Mobile App,Email,19.9,2,132.92,Payment,Valid,Normal,Other
+S557767,U588582,19-10-2025,Prime,Mobile App,Organic Search,14.1,3,150.43,Success,Valid,Normal,Purchasers
+S919293,U827393,17-10-2025,Prime,Mobile App,Direct,2.3,0,0.00,Home Page,Valid,Normal,Browsers
+S900904,U433753,03-10-2025,Prime,Desktop,Social Media,30.1,2,25.45,Success,Valid,Normal,Purchasers
+S680740,U603838,15-10-2025,Non-Prime,Mobile App,Social Media,3.8,0,0.00,Product Page,Valid,Normal,Browsers
+S858385,U670676,16-10-2025,Prime,Mobile Web,Social Media,3.6,0,0.00,Product Page,Valid,Normal,Browsers
+S910241,U597925,24-10-2025,Non-Prime,Mobile App,Direct,14.3,4,95.49,Cart,Valid,Normal,Mid-Value Abandoners
+S889599,U128438,18-10-2025,Prime,Mobile App,Organic Search,12.5,3,110.28,Success,Valid,Normal,Purchasers
+S617922,U629089,02-10-2025,prime,Mobile App,Organic Search,24.8,3,89.33,Success,Valid,Normal,Purchasers
+S907390,U877858,17-10-2025,Non-Prime,Mobile Web,Organic Search,623.0,0,0.00,Product Page,Valid,Normal,Browsers
+S832379,U132584,18-10-2025,Non-Prime,Desktop,Affiliate,19.0,2,54.70,Success,Valid,Normal,Purchasers
+S926433,U396395,18-10-2025,Prime,Mobile App,Direct,19.2,2,59.98,Cart,Valid,Normal,Mid-Value Abandoners
+S608854,U823567,24-10-2025,Non-Prime,Mobile Web,Affiliate,9.9,2,33.85,Cart,Valid,Normal,Low-Value Abandoners
+S527703,U204024,30-10-2025,Prime,Mobile App,Affiliate,4.5,0,0.00,Product Page,Valid,Normal,Browsers
+S861809,U447228,14-10-2025,Non-Prime,Tablet,Paid Search,,3,50.06,Success,Valid,Normal,Purchasers
+S748089,U801194,28-10-2025,Non-Prime,Tablet,Email,2.2,0,0.00,Product Page,Valid,Normal,Browsers
+S915596,U542552,21-10-2025,Prime,Mobile App,Direct,2.5,0,0.00,Product Page,Valid,Normal,Browsers
+S700816,U367345,17-10-2025,Prime,Desktop,Social Media,15.1,2,37.05,Success,Valid,Normal,Purchasers
+S796526,U351621,31-10-2025,Non-Prime,Desktop,Paid Search,1.6,0,0.00,Home Page,Valid,Normal,Browsers
+S569867,U735577,31-10-2025,Non-Prime,Mobile App,Email,3.2,0,0.00,Product Page,Valid,Normal,Browsers
+S575864,U382753,28-10-2025,Prime,Tablet,Social Media,1.1,0,0.00,Home Page,Valid,Normal,Browsers
+S585374,U789836,14-10-2025,Non-Prime,Mobile App,Unknown,32.3,4,115.76,Cart,Valid,Normal,Mid-Value Abandoners
+S552427,U597925,26-10-2025,Non-Prime,Unknown,Direct,8.4,0,0.00,Product Page,Valid,Normal,Browsers
+S686923,U959152,28-10-2025,Non-Prime,Mobile App,Email,13.4,2,30.54,Success,Valid,Normal,Purchasers
+S894087,U607498,20-10-2025,Prime,Tablet,Email,2.2,0,0.00,Product Page,Valid,Normal,Browsers
+S539501,U722442,13-10-2025,Prime,Mobile App,Social Media,3.6,0,0.00,Product Page,Valid,Normal,Browsers
+S621476,U948132,18-10-2025,Prime,Desktop,Affiliate,5.1,2,71.86,Success,Valid,Normal,Purchasers
+S606624,U446827,31-10-2025,Prime,Desktop,Organic Search,5.7,3,100.20,Payment,Valid,Normal,Other
+S837297,U899757,24-10-2025,Prime,Tablet,Email,8.5,1,13.65,Success,Valid,Normal,Purchasers
+S548963,U962100,31-10-2025,Prime,Desktop,Email,620.0,2,63.39,Success,Valid,Normal,Purchasers
+S958693,U991957,07-10-2025,Non-Prime,Desktop,Organic Search,15.7,4,56.24,Success,Valid,Normal,Purchasers
+S864810,U466882,24-10-2025,Prime,Desktop,Direct,2.7,0,0.00,Product Page,Valid,Normal,Browsers
+S735800,U169444,24-10-2025,Prime,Desktop,Social Media,29.7,2,54.33,Success,Valid,Normal,Purchasers
+S754118,U138187,02-10-2025,Non-Prime,Desktop,Social Media,7.3,2,78.96,Cart,Valid,Normal,Mid-Value Abandoners
+S750981,U485816,02-10-2025,Non-Prime,Tablet,Social Media,7.2,0,0.00,Product Page,Valid,Normal,Browsers
+S775396,U126577,19-10-2025,Non-Prime,Desktop,Affiliate,3.4,0,0.00,Product Page,Valid,Normal,Browsers
+S651765,U947769,27-10-2025,Prime,Mobile App,Email,9.3,2,34.58,Success,Valid,Normal,Purchasers
+S708815,U503008,19-10-2025,Non-Prime,Desktop,Organic Search,3.1,0,0.00,Product Page,Valid,Normal,Browsers
+S612041,U516056,17-10-2025,Prime,Desktop,Organic Search,6.5,2,89.13,Success,Valid,Normal,Purchasers
+S596422,U262956,26-10-2025,Prime,Desktop,Paid Search,,0,0.00,Product Page,Valid,Normal,Browsers
+S714370,U270118,22-10-2025,Non-Prime,Desktop,Direct,4.1,1,25.60,Checkout,Valid,Normal,Other
+S737058,U108061,13-10-2025,Prime,Mobile App,Email,13.7,0,0.00,Product Page,Valid,Normal,Browsers
+S631507,U840259,02-10-2025,Non-Prime,Mobile Web,Direct,,1,46.69,Cart,Valid,Normal,Low-Value Abandoners
+S985279,U436971,29-10-2025,Prime,Desktop,Direct,8.7,4,170.27,Success,Valid,Normal,Purchasers
+S815214,U442840,06-10-2025,Prime,Mobile App,Social Media,2.6,0,0.00,Product Page,Valid,Normal,Browsers
+S794728,U451619,28-10-2025,Prime,Tablet,Organic Search,10.8,4,83.21,Cart,Valid,Normal,Mid-Value Abandoners
+S656412,U651127,30-10-2025,Prime,Mobile App,Organic Search,5.2,0,0.00,Product Page,Valid,Normal,Browsers
+S776020,U735577,15-10-2025,Non-Prime,Mobile App,Affiliate,12.1,2,23.01,Checkout,Valid,Normal,Other
+S871903,U924565,01-10-2025,Non-Prime,Desktop,Organic Search,21.2,4,127.01,Checkout,Valid,Normal,Other
+S630619,U653896,23-10-2025,Non-Prime,Mobile App,Organic Search,4.3,0,0.00,Product Page,Valid,Normal,Browsers
+S778609,U959152,04-10-2025,Non-Prime,Mobile Web,Social Media,9.1,2,48.81,Success,Valid,Normal,Purchasers
+S927382,U589643,17-10-2025,Prime,Mobile App,Direct,6.8,0,0.00,Product Page,Valid,Normal,Browsers
+S974505,U899757,22-10-2025,Prime,Mobile App,Email,24.3,1,31.60,Payment,Valid,Normal,Other
+S755734,U104687,04-10-2025,Prime,Tablet,Organic Search,16.0,1,13.22,Success,Valid,Normal,Purchasers
+S890354,U827393,30-10-2025,Prime,Desktop,Direct,16.6,1,56.68,Cart,Valid,Normal,Mid-Value Abandoners
+S549138,U184235,10-10-2025,Non-Prime,Mobile App,Organic Search,5.4,0,0.00,Product Page,Valid,Normal,Browsers
+S524061,U146602,01-10-2025,Non-Prime,Tablet,Organic Search,12.3,1,42.33,Cart,Valid,Normal,Low-Value Abandoners
+S723406,U689997,25-10-2025,Non-Prime,Mobile Web,Organic Search,1.9,0,0.00,Product Page,Valid,Normal,Browsers
+S691353,U996864,19-10-2025,Non-Prime,Tablet,Social Media,4.7,0,0.00,Product Page,Valid,Normal,Browsers
+S797659,U355822,15-10-2025,Prime,Desktop,Paid Search,5.0,0,0.00,Product Page,Valid,Normal,Browsers
+S934160,U840259,11-10-2025,Non-Prime,Mobile App,Organic Search,5.2,0,0.00,Product Page,Valid,Normal,Browsers
+S634057,U653058,04-10-2025,Prime,Mobile Web,Organic Search,16.4,2,63.10,Checkout,Valid,Normal,Other
+S519845,U859821,06-10-2025,Prime,Mobile Web,Social Media,6.8,3,202.08,Success,Valid,Potential Outlier,Purchasers
+S517369,U682961,08-10-2025,Prime,Mobile App,Affiliate,19.0,3,112.48,Payment,Valid,Normal,Other
+S833288,U326149,30-10-2025,Prime,Unknown,Organic Search,9.1,2,33.18,Cart,Valid,Normal,Low-Value Abandoners
+S560299,U394298,05-10-2025,Prime,Mobile App,Organic Search,4.9,0,0.00,Product Page,Valid,Normal,Browsers
+S705918,U967006,18-10-2025,Prime,Desktop,Direct,16.2,2,41.90,Success,Valid,Normal,Purchasers
+S706096,U322543,08-10-2025,Non-Prime,Desktop,Affiliate,12.8,4,46.52,Success,Valid,Normal,Purchasers
+S807041,U508982,21-10-2025,Non-Prime,Mobile App,Direct,10.6,2,68.30,Cart,Valid,Normal,Mid-Value Abandoners
+S788806,U533476,18-10-2025,Non-Prime,Mobile App,Organic Search,3.9,0,0.00,Product Page,Valid,Normal,Browsers
+S793142,U833774,08-10-2025,Non-Prime,Desktop,Direct,3.6,0,0.00,Product Page,Valid,Normal,Browsers
+S646322,U804151,05-10-2025,Non-Prime,Desktop,Paid Search,1.8,0,0.00,Home Page,Valid,Normal,Browsers
+S907174,U240480,25-10-2025,Prime,Mobile Web,Organic Search,10.5,1,13.01,Checkout,Valid,Normal,Other
+S538351,U702205,05-10-2025,Non-Prime,Desktop,Organic Search,4.3,0,0.00,Product Page,Valid,Normal,Browsers
+S970937,U645487,16-10-2025,Non-Prime,Mobile App,Email,15.7,2,38.33,Payment,Valid,Normal,Other
+S947160,U109966,08-10-2025,Prime,Mobile App,Direct,3.2,0,0.00,Home Page,Valid,Normal,Browsers
+S504256,U962131,28-10-2025,Prime,Mobile Web,Social Media,6.0,1,14250.00,Cart,Valid,Potential Outlier,High-Value Abandoners
+S748912,U859715,14-10-2025,Non-Prime,Desktop,Paid Search,33.8,5,119.09,Success,Valid,Normal,Purchasers
+S628717,U273380,02-10-2025,Non-Prime,Desktop,Email,1.8,0,0.00,Product Page,Valid,Normal,Browsers
+S504648,U988450,21-10-2025,Non-Prime,Desktop,Unknown,1.4,0,0.00,Home Page,Valid,Normal,Browsers
+S501320,U995962,19-10-2025,Non-Prime,Mobile App,Direct,10.1,1,49.71,Cart,Valid,Normal,Low-Value Abandoners
+S878909,U108061,05-10-2025,Prime,Mobile Web,Paid Search,8.5,3,156.55,Success,Valid,Normal,Purchasers
+S646374,U399109,10-10-2025,Non-Prime,Mobile App,Paid Search,2.3,0,0.00,Home Page,Valid,Normal,Browsers
+S646804,U233178,11-10-2025,Non-Prime,Mobile Web,Organic Search,16.7,1,,Success,Valid,Normal,Purchasers
+S937607,U359281,02-10-2025,Non-Prime,Mobile Web,Organic Search,9.2,1,24.29,Cart,Valid,Normal,Low-Value Abandoners
+S797662,U947769,26-10-2025,Prime,Mobile App,Organic Search,14.0,2,41.30,Payment,Valid,Normal,Other
+S912804,U524876,11-10-2025,Prime,Mobile App,Organic Search,17.8,1,18.52,Payment,Valid,Normal,Other
+S930139,U966703,22-10-2025,Non-Prime,Mobile App,Paid Search,19.4,1,36.72,Cart,Valid,Normal,Low-Value Abandoners
+S599654,U709496,22-10-2025,Non-Prime,Desktop,Organic Search,10.4,1,65.98,Checkout,Valid,Normal,Other
+S727500,U912301,20-10-2025,Prime,Mobile App,Paid Search,8.4,2,60.78,Cart,Valid,Normal,Mid-Value Abandoners
+S582903,U188594,31-10-2025,Non-Prime,Mobile App,Affiliate,8.8,2,90.86,Cart,Valid,Normal,Mid-Value Abandoners
+S834102,U431918,23-10-2025,Prime,Mobile App,Affiliate,12.3,1,23.70,Success,Valid,Normal,Purchasers
+S681397,U149519,09-10-2025,Prime,Desktop,Direct,7.4,1,17.96,Cart,Valid,Normal,Low-Value Abandoners
+S569774,U297673,29-10-2025,Prime,Mobile App,Affiliate,18.7,1,5.87,Success,Valid,Normal,Purchasers
+S801222,U914907,07-10-2025,Prime,Mobile App,Social Media,40.7,5,248.70,Success,Valid,Potential Outlier,Purchasers
+S510043,U613303,28-10-2025,Prime,Mobile App,Organic Search,7.3,6,55.23,Cart,Valid,Normal,Mid-Value Abandoners
+S940327,U494050,06-10-2025,Non-Prime,Mobile App,Direct,21.4,4,58.66,Success,Valid,Normal,Purchasers
+S650909,U494050,06-10-2025,Non-Prime,Mobile App,Paid Search,6.8,2,64.55,Checkout,Valid,Normal,Other
+S835524,U217029,13-10-2025,Prime,Desktop,Direct,5.8,0,0.00,Product Page,Valid,Normal,Browsers
+S708834,U424487,25-10-2025,Non-Prime,Desktop,Direct,1.6,0,0.00,Home Page,Valid,Normal,Browsers
+S639408,U321113,07-10-2025,Prime,Desktop,Organic Search,12.5,2,38.20,Payment,Valid,Normal,Other
+S931589,U223239,15-10-2025,Non-Prime,Tablet,Direct,5.3,2,18.29,Cart,Valid,Normal,Low-Value Abandoners
+S654677,U839289,10-10-2025,Prime,Mobile App,Organic Search,15.5,3,150.34,Success,Valid,Normal,Purchasers
+S949336,U108061,11-10-2025,Prime,Desktop,Organic Search,13.4,4,78.60,Checkout,Valid,Normal,Other
+S896988,U210270,10-10-2025,Prime,Mobile App,Email,16.5,2,66.39,Success,Valid,Normal,Purchasers
+S940721,U210270,17-10-2025,Prime,Mobile App,Social Media,15.7,1,75.57,Checkout,Valid,Normal,Other
+S845523,U666702,19-10-2025,Unknown,Desktop,Email,24.2,2,92.71,Success,Valid,Normal,Purchasers
+S839933,U995962,23-10-2025,Non-Prime,Desktop,Social Media,1.7,0,0.00,Home Page,Valid,Normal,Browsers
+S733386,U243445,11-10-2025,Non-Prime,Mobile Web,Direct,3.9,0,0.00,Product Page,Valid,Normal,Browsers
+S645442,U169229,28-10-2025,Non-Prime,Desktop,Paid Search,1.0,0,0.00,Home Page,Valid,Normal,Browsers
+S500864,U260925,28-10-2025,Prime,Mobile Web,Organic Search,11.5,3,56.79,Payment,Valid,Normal,Other
+S749744,U196531,04-10-2025,Prime,Mobile App,Direct,15.3,1,94.21,Success,Valid,Normal,Purchasers
+S924174,U960221,05-10-2025,Prime,Desktop,Social Media,10.8,2,28.96,Cart,Valid,Normal,Low-Value Abandoners
+S794170,U233576,24-10-2025,Non-Prime,Mobile Web,Affiliate,4.5,0,0.00,Product Page,Valid,Normal,Browsers
+S966057,U522855,18-10-2025,Non-Prime,Mobile App,Organic Search,,0,0.00,Product Page,Valid,Normal,Browsers
+S819478,U536027,19-10-2025,Non-Prime,Desktop,Organic Search,9.8,2,87.15,Checkout,Valid,Normal,Other
+S657621,U994257,28-10-2025,Prime,Mobile App,Paid Search,45.6,5,233.37,Success,Valid,Potential Outlier,Purchasers
+S823626,U140305,09-10-2025,Prime,Mobile App,Direct,5.3,0,0.00,Product Page,Valid,Normal,Browsers
+S597750,U213089,23-10-2025,Prime,Unknown,Direct,11.8,2,51.51,Cart,Valid,Normal,Mid-Value Abandoners
+S623673,U525955,01-10-2025,Prime,Tablet,Direct,1.4,0,0.00,Home Page,Valid,Normal,Browsers
+S885998,U810400,01-10-2025,Non-Prime,Desktop,Organic Search,5.4,0,0.00,Product Page,Valid,Normal,Browsers
+S599745,U707780,17-10-2025,Prime,Mobile Web,Organic Search,5.7,1,11.22,Success,Valid,Normal,Purchasers
+S959199,U735577,20-10-2025,Non-Prime,Unknown,Organic Search,0.9,0,0.00,Home Page,Valid,Normal,Browsers
+S515117,U105983,22-10-2025,Prime,Desktop,Direct,11.0,1,28.26,Payment,Valid,Normal,Other
+S736307,U102688,28-10-2025,Non-Prime,Mobile App,Paid Search,28.0,3,122.02,Success,Valid,Normal,Purchasers
+S844404,U316286,09-10-2025,Non-Prime,Mobile App,Organic Search,4.7,0,0.00,Product Page,Valid,Normal,Browsers
