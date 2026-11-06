@@ -136,14 +136,16 @@ FROM shopping_analysis;
 SELECT
     ROUND(AVG(total_cart_value),2) AS average_cart_value
 FROM shopping_analysis
-WHERE drop_off_stage = 'Cart';
+WHERE drop_off_stage = 'Cart'
+AND outlier_analysis <> 'Potential Outlier';
 
 
 -- Revenue at risk
 SELECT 
 ROUND(SUM(total_cart_value),2) AS revenue_at_risk
 FROM shopping_analysis
-WHERE drop_off_stage = 'Cart';
+WHERE drop_off_stage = 'Cart'
+AND outlier_analysis <> 'Potential Outlier';
 
 
 -- Prime VS Non-Prime Gap Analysis
@@ -179,32 +181,37 @@ FROM membership_rates;
 SELECT
     ROUND(AVG(session_duration_mins), 2) AS avg_successful_session_duration
 FROM shopping_analysis
-WHERE drop_off_stage = 'Success';
+WHERE drop_off_stage = 'Success'
+AND session_duration_mins <= 180;
 
 
 -- Average Abandoned session duration by outcome
 SELECT
     ROUND(AVG(session_duration_mins), 2) AS avg_abandoned_session_duration
 FROM shopping_analysis
-WHERE drop_off_stage  NOT IN ('Success', 'Unknown');
+WHERE drop_off_stage  NOT IN ('Success', 'Unknown') 
+AND session_duration_mins <= 180;
 
 
 -- Difference in average session duration between successful and abandoned sessions
 SELECT
     ROUND(AVG(session_duration_mins) FILTER (
-        WHERE drop_off_stage = 'Success'
+        WHERE drop_off_stage = 'Success' AND session_duration_mins<=180
     ), 2) AS avg_successful_duration,
 
     ROUND(AVG(session_duration_mins) FILTER (
         WHERE drop_off_stage NOT IN ('Success','Unknown')
+        AND session_duration_mins<=180
     ), 2) AS avg_abandoned_duration,
 
     ROUND(
         AVG(session_duration_mins) FILTER (
-            WHERE drop_off_stage = 'Success'
+            WHERE drop_off_stage = 'Success' AND 
+            session_duration_mins<=180
         ) -
         AVG(session_duration_mins) FILTER (
-            WHERE drop_off_stage NOT IN ('Success','Unknown')
+            WHERE drop_off_stage NOT IN ('Success','Unknown') AND 
+            session_duration_mins<=180
         ), 2
     ) AS duration_difference
 FROM shopping_analysis;
