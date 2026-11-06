@@ -62,7 +62,7 @@ Amazon_Data_Analysis/
 │      └──02_Reconcil_KPIs.sql
 │
 ├──04_Report/
-│   └──Amazon_prime_data_analysis.pdf
+│   └──Amazon_data_analysis.pdf
 │
 └──  README.md
 ```
@@ -122,14 +122,13 @@ The following KPIs were calculated during the analysis:
 | Conversion Rate                       |        33.71% |
 | Cart Abandonment Rate                 |        26.65% |
 | Checkout and Payment Abandonment Rate |        32.24% |
-| Average Abandoned Cart Value          |        208.60 |
-| Potential Revenue at Risk             |     35,879.60 |
-| Average Successful Session Duration   | 22.55 minutes |
-| Average Abandoned Session Duration    |  9.89 minutes |
+| Average Abandoned Cart Value          |         59.71 |
+| Potential Revenue at Risk             |       9703.86 |
+| Average Successful Session Duration   | 16.88 minutes |
+| Average Abandoned Session Duration    |  7.42 minutes |
 
 These KPIs helped understand customer behaviour and identify areas that may need improvement.
 
-![KPI Results](05_Screenshots/KPI_Calculations.png)
 
 ## 👥 8. Customer Segmentation
 
